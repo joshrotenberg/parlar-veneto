@@ -1,28 +1,10 @@
 # Map of the Veneto
 
+![Map of the Veneto region showing its seven provinces](../images/veneto-map.png)
+
 ## The Veneto Region
 
 The Veneto (*Vèneto* in Venetian) is a region in northeastern Italy, bordered by the Alps to the north, the Adriatic Sea to the east, and the Po River valley to the south. It encompasses seven provinces, each with its own dialectal character.
-
-```
-                        AUSTRIA
-                           |
-            TRENTINO    BELLUNO
-              |        (Bellunese)
-              |            |
-         VICENZA ---- TREVISO ---- FRIULI
-        (Vicentino)  (Trevigiano)    |
-              |            |         |
-         VERONA ----- PADOVA ----- VENEZIA --- [Adriatic Sea]
-        (Veronese)  (Padovano)   (Veneziano)
-              |            |
-              +---- ROVIGO ----+
-                   (Polesano)
-                       |
-                    [Po River]
-                       |
-                   EMILIA-ROMAGNA
-```
 
 ## The Dialect Areas
 
