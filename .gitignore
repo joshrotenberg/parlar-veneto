@@ -10,3 +10,6 @@ book/
 *~
 .idea/
 .vscode/
+
+# Phantom files created by sync tools interpreting anchor links as paths
+*#*
