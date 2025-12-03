@@ -211,7 +211,48 @@ For more positive situations:
 | *Me rompo.* | *Mi annoio.* | I'm bored. (lit. "I'm breaking") |
 | *Me gira.* | *Mi gira.* | I'm annoyed. (lit. "it turns me") |
 
-## 22.10 Conversational Fillers and Hedges
+## 22.10 The Particle *Ciò*
+
+The particle *ciò* (pronounced /tʃɔ/, like "choh" with an open O) is one of the most distinctive markers of Venetian speech. It functions as an attention-getter, intensifier, and general filler - similar to English "man," "dude," or "hey."
+
+### Basic Usage
+
+| Venetian | English |
+|----------|---------|
+| *Varda, ciò!* | Look, man! |
+| *Dai, ciò!* | Come on, dude! |
+| *Ma ciò...* | But like... |
+| *Ciò, scolta!* | Hey, listen! |
+
+### As an Intensifier
+
+*Ciò* can add emphasis or urgency:
+
+| Venetian | English |
+|----------|---------|
+| *Daghe gas, ciò!* | Floor it, man! |
+| *Vien qua, ciò!* | Come here, will you! |
+| *Fermete, ciò!* | Stop, for crying out loud! |
+
+### From Social Media
+
+From DJ Matrix x Rumatera collaboration comments:
+
+> *"Daghe gaaaaaaas ciò!!!"* — @lele_bullo
+
+The elongated vowels reflect enthusiastic pronunciation typical of social media.
+
+### Why It Matters
+
+*Ciò* instantly marks speech as Venetian. An Italian speaker from Rome, Naples, or Milan would never naturally use *ciò* this way. It's absent from standard Italian and specific to Venetian and nearby dialects.
+
+For learners, sprinkling in *ciò* appropriately will make your Venetian sound more authentic. But listen for how native speakers use it - it's a casual register marker and might sound odd in formal contexts.
+
+### Note on Pronunciation
+
+Some speakers pronounce it closer to /tʃao/, which can blur with *ciao*. The distinction is subtle but the open O (/tʃɔ/) is more characteristically Venetian.
+
+## 22.11 Other Conversational Fillers
 
 The little words that keep conversation flowing:
 
@@ -221,10 +262,11 @@ The little words that keep conversation flowing:
 | *mah* | uncertainty, doubt | *Mah, no so.* (Hmm, I don't know.) |
 | *nò?* | tag question | *Xe bon, nò?* (It's good, right?) |
 | *alora* | so, then | *Alora, ndemo?* (So, shall we go?) |
-| *ciò* | hey, listen | *Ciò, varda qua.* (Hey, look here.) |
 | *insoma* | in short, basically | *Insoma, xe cussì.* (Basically, that's how it is.) |
 | *tipo* | like, kind of | *Xe tipo strano.* (It's kind of weird.) |
 | *magari* | maybe, hopefully, if only | *Magari!* (If only! / I wish!) |
+| *mo* | now, right now | *Vegno mo.* (I'm coming now.) |
+| *po* | then, after all | *E po?* (And then? / So what?) |
 
 ## Summary
 
