@@ -128,6 +128,22 @@ Before front vowels, Italian's /dʒ/ often corresponds to Venetian's voiced sibi
 
 This is one of the most distinctive markers of Venetian.
 
+### Italian *gu-* → Venetian *v-*
+
+Initial *gu-* in Italian often becomes *v-* in Venetian:
+
+| Italian | Venetian | English |
+|---------|----------|---------|
+| *guardare* | *vardar* | to look, to watch |
+| *guadagnare* | *vadagnar* | to earn |
+| *guerra* | *guera* | war (kept in some words) |
+
+The verb *vardar* is extremely common in everyday speech:
+
+- *Varda!* (Look!)
+- *Varda che beo!* (Look how beautiful!)
+- *Varda come che i spinge!* (Look how they're pushing!)
+
 ## 2.6 Vowel Changes
 
 While the vowel systems are similar, some systematic differences exist:
@@ -223,6 +239,7 @@ The major sound correspondences from Italian to Venetian:
 | L (certain positions) | ł (evanescent) | *bello* → *beło* |
 | *gl* [ʎ] | *j* | *figlio* → *fijo* |
 | *gi-* [dʒ] | *x-* [z] | *giorno* → *xorno* |
+| *gu-* | *v-* | *guardare* → *vardar* |
 | Diphthongs *uo*, *ie* | Simple vowels | *buono* → *bon* |
 | Final vowels | Often truncated | *pane* → *pan* |
 
