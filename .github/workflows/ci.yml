@@ -17,13 +17,10 @@ jobs:
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
         with:
-          mdbook-version: 'latest'
+          mdbook-version: "latest"
 
       - name: Build book
         run: mdbook build
-
-      - name: Test book (check for broken links)
-        run: mdbook test
 
   linkcheck:
     runs-on: ubuntu-latest
@@ -33,7 +30,7 @@ jobs:
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
         with:
-          mdbook-version: 'latest'
+          mdbook-version: "latest"
 
       - name: Install link checker
         run: |
@@ -51,6 +48,6 @@ jobs:
       - name: Lint markdown files
         uses: DavidAnson/markdownlint-cli2-action@v19
         with:
-          globs: 'src/**/*.md'
-          config: '.markdownlint.json'
+          globs: "src/**/*.md"
+          config: ".markdownlint.json"
         continue-on-error: true
