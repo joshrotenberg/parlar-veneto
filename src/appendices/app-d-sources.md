@@ -46,6 +46,12 @@ Contemporary musical source for modern Venetian usage and cultural context. Nota
 
 **Scooltame** - DJ specializing in exclusively Venetian-language music sets. Useful for discovering other Venetian-language artists.
 
+**RFC** - RFC (Ritieniti Fortemente Coinvolto). Ska-punk band from Caserta with 22+ years of activity. Their collaboration with Rumatera on "Festa" marked their first use of dialect, creating a Campanian-Venetian linguistic mix that demonstrates cross-regional solidarity through shared working-class punk identity.
+
+**...Piace?** - Ticinese punk folk band. Collaborated with Rumatera on "Hey!" providing comparison material for Swiss Italian dialect alongside Venetian.
+
+**DJ Matrix** - Collaborated with Rumatera on "Panda sulla neve." Example of Venetian crossing into mainstream Italian dance music.
+
 ### YouTube
 
 **CG** - Carlo e Giorgio. Comedy channel featuring "Lezioni di Veneziano" series. YouTube: [@carloandgiorgio](https://www.youtube.com/@carloandgiorgio).
@@ -77,6 +83,14 @@ Working gondolier posting gondolier lingo and occupational vocabulary. Good sour
 **CB** - @chiarasbakery. Instagram account. [@chiarasbakery](https://www.instagram.com/chiarasbakery/).
 
 Veneta baker living in North Carolina. Diaspora perspective on Venetian language and culture.
+
+**PS** - @padovastories. Instagram account. [@padovastories](https://www.instagram.com/padovastories/).
+
+Regional news and culture account. Source for economic data on Veneto's DOP/IGP protected designation economy and regional identity expressions.
+
+### Commercial Sources
+
+**500in510** - Venetian merchandise brand. Their products feature authentic Venetian spellings (*Nadae* for Natale, *atensione* for attenzione), demonstrating Venetian orthography in commercial contexts and language as identity marker.
 
 ## Academic References
 
