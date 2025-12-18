@@ -190,7 +190,37 @@ Some Italian consonant clusters simplify or change in Venetian:
 | *nd* | *n* | (in some words) | |
 | *quando* | *quando* or *cuàndo* | | when |
 
-## 2.8 The Prefix *s-*
+## 2.8 Consonant Simplification
+
+Venetian simplifies certain consonant clusters and affricates that Italian preserves:
+
+### The /ts/ → /s/ Shift
+
+Italian's voiceless affricate /ts/ (written *z*) often reduces to a simple /s/ in Venetian:
+
+| Italian | Venetian | English |
+|---------|----------|---------|
+| *spritz* | *spriss* | spritz (the drink) |
+| *attenzione* | *atensione* | attention |
+| *stazione* | *stasion* | station |
+| *azione* | *asion* | action |
+| *colazione* | *colasion* | breakfast |
+
+This simplification is characteristic of casual speech and appears consistently in contemporary sources. The Venetian pronunciation *spriss* for the iconic aperitivo reflects this pattern.
+
+### The -tale → -dae Pattern
+
+Words ending in *-tale* undergo both voicing and L-vocalization:
+
+| Italian | Venetian | English |
+|---------|----------|---------|
+| *Natale* | *Nadae* | Christmas |
+| *ospedale* | *ospedae* | hospital |
+| *mortale* | *mortae* | mortal |
+
+The /t/ voices to /d/ between vowels, and the final /l/ vocalizes or drops entirely, producing the characteristic *-dae* ending.
+
+## 2.9 The Prefix *s-*
 
 Venetian makes extensive use of the prefix **s-**, which can indicate:
 
@@ -204,7 +234,7 @@ Venetian makes extensive use of the prefix **s-**, which can indicate:
 
 This prefix creates the distinctive /stʃ/ cluster mentioned in Chapter 1 when it precedes *c* before a front vowel.
 
-## 2.9 Applying the Patterns
+## 2.10 Applying the Patterns
 
 These sound changes are productive enough that you can often derive Venetian forms from Italian:
 
