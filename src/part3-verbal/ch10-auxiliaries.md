@@ -240,12 +240,17 @@ Like Italian, Venetian uses:
 | *Semo partìi.* | *Siamo partiti.* | We left. |
 | *La xe nassùa.* | *È nata.* | She was born. |
 
-**With reflexives (always *èsser*):**
-| Venetian | Italian | English |
-|----------|---------|---------|
-| *Me son lavà.* | *Mi sono lavato.* | I washed (myself). |
-| *El se ga vestìo.* | *Si è vestito.* | He got dressed. |
-| *Se semo incontrà.* | *Ci siamo incontrati.* | We met. |
+**With reflexives:**
+
+Unlike standard Italian, which always uses *essere* with reflexives, Venetian shows variation. Many speakers use *gavér* with reflexive verbs, particularly in the terraferma:
+
+| Venetian (with *gavér*) | Venetian (with *èsser*) | Italian | English |
+|-------------------------|-------------------------|---------|---------|
+| *Me go lavà.* | *Me son lavà.* | *Mi sono lavato.* | I washed (myself). |
+| *El se ga vestìo.* | *El se xe vestìo.* | *Si è vestito.* | He got dressed. |
+| *Se gavemo incontrà.* | *Se semo incontrà.* | *Ci siamo incontrati.* | We met. |
+
+Both forms are used and understood. The *gavér* construction is a notable divergence from Italian and is common in contemporary speech.
 
 ### Agreement with *Èsser*
 
@@ -344,6 +349,8 @@ As noted in Chapter 7, when the subject follows the verb (news/announcement), th
 | Use *gavér* | Use *èsser* |
 |-------------|-------------|
 | Transitive verbs | Motion verbs (*andar*, *vegnir*, *partir*) |
-| | Change of state (*nàsser*, *morir*) |
-| | Reflexive verbs |
+| Reflexive verbs (variation) | Change of state (*nàsser*, *morir*) |
+| | Reflexive verbs (variation) |
 | | Impersonal *ghe xe* |
+
+**Note:** Unlike Italian, Venetian allows *gavér* with reflexive verbs (*me go lavà* alongside *me son lavà*). Both are acceptable.

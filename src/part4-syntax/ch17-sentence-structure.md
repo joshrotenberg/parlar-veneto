@@ -202,6 +202,24 @@ Like Italian, Venetian uses double negation:
 | *No ghe xe **nissun**.* | *Non c'è **nessuno**.* | There's nobody. |
 | *No vago **mai**.* | *Non vado **mai**.* | I never go. |
 
+### Emphatic Negation with *Miga*
+
+Venetian has an emphatic negation particle *miga* (also *mìa*, *minga* in some areas) that reinforces the negative. This particle has no direct equivalent in standard Italian but is comparable to French *mie* (archaic) or Lombard *minga*.
+
+| Venetian | Italian | English |
+|----------|---------|---------|
+| *No ghe xe **miga**.* | *Non c'è affatto.* | There isn't any at all. |
+| *No go **miga** capìo.* | *Non ho mica capito.* | I didn't understand at all. |
+| *No el xe **miga** stupido.* | *Non è mica stupido.* | He's not stupid (contrary to what you might think). |
+| *No te ga **miga** rason!* | *Non hai mica ragione!* | You're not right at all! |
+
+*Miga* adds emphasis and often implies contradiction of an assumption. It typically follows the verb or auxiliary:
+
+- *No **el** vien **miga**.* (He's definitely not coming.)
+- *No **i** ga **miga** schei.* (They don't have any money at all.)
+
+This feature appears frequently in contemporary sources like Rumatera lyrics, marking emphatic or emotional negation in colloquial speech.
+
 ### Negative Words
 
 | Venetian | Italian | English |
@@ -210,6 +228,7 @@ Like Italian, Venetian uses double negation:
 | *nissun* | *nessuno* | nobody |
 | *mai* | *mai* | never |
 | *gnanca* | *neanche* | not even |
+| *miga* | *mica* (emphatic) | at all (emphatic negation) |
 
 ## 17.7 Coordination
 

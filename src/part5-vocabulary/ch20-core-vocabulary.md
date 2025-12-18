@@ -137,6 +137,47 @@ Venice's lagoon location means seafood vocabulary is particularly rich:
 | *sbronsa* | *sbornia* | drunkenness, hangover | |
 | *spuncioto* | *spuntino* | snack | Eaten with *ombra*; cicchetti culture |
 
+### Regional Products: DOP and IGP
+
+Veneto leads Italy in protected designation products (DOP/IGP), with an economy exceeding 4.9 billion euros annually. Treviso province alone accounts for over 2.2 billion, driven largely by Prosecco. These products are sources of intense regional pride and part of everyday vocabulary.
+
+#### Wines
+
+| Product | Province | Notes |
+|---------|----------|-------|
+| *Proseco* | Treviso | DOCG from Conegliano Valdobbiadene and Asolo; drives regional economy |
+| *Amarone dea Valpolicela* | Verona | Rich red from dried grapes |
+| *Soave* | Verona | White wine from Garganega grapes |
+| *Valpolicela* | Verona | Red wine, base for Amarone |
+| *Marzemin* | Treviso | Red wine, mentioned in *Don Giovanni* |
+
+#### Cheeses
+
+| Venetian | Italian | Province | Notes |
+|----------|---------|----------|-------|
+| *Asiago* | *Asiago* | Vicenza | DOP; fresh (*pressato*) or aged (*stravecchio*) |
+| *Grana Padano* | *Grana Padano* | Various | DOP; Veneto is a major producer |
+| *Monte Veronese* | *Monte Veronese* | Verona | DOP; from the Lessinia mountains |
+| *Piave* | *Piave* | Belluno/Treviso | DOP; named for the river |
+
+#### Cured Meats
+
+| Venetian | Italian | Province | Notes |
+|----------|---------|----------|-------|
+| *Sopressa visentina* | *Sopressa vicentina* | Vicenza | DOP; soft salami, a regional staple |
+| *Presuto veneto* | *Prosciutto Veneto Berico-Euganeo* | Padua/Vicenza | DOP; cured ham |
+
+#### Produce
+
+| Venetian | Italian | Province | Notes |
+|----------|---------|----------|-------|
+| *Radicchio de Treviso* | *Radicchio di Treviso* | Treviso | IGP; long red leaves, bitter-sweet |
+| *Radicchio de Ciosa* | *Radicchio di Chioggia* | Venice | IGP; round, variegated |
+| *Sparasi de Bassan* | *Asparago di Bassano* | Vicenza | DOP; white asparagus |
+| *Riso Vialone Nano* | *Riso Vialone Nano Veronese* | Verona | IGP; risotto rice |
+
+These products often appear in expressions of regional identity. The phrase *chi semo* (who we are) captures the pride Venetians take in their food traditions.
+
 ## 20.2 Greetings and Everyday Expressions
 
 | Venetian | Italian | English | Notes |
