@@ -14,6 +14,8 @@ This is not to dismiss the scholarly tradition. Silvano Belloni's *Grammatica Ve
 
 Venetian encompasses several regional varieties: the urban dialect of Venice proper (*Veneziano*), the speech of Padua (*Padovano*), Treviso (*Trevigiano*), Vicenza (*Vicentino*), Verona (*Veronese*), and other areas. This grammar primarily follows the conventions of central Venetian, particularly the Padovano-Vicentino variety that covers the most populous and extensive territory of the region.
 
+A note on terminology: This book uses "Venetian" (*veneto*) to refer to the language spoken across the Veneto region, not just the city of Venice. Some scholars prefer "Venetan" to emphasize this broader scope and avoid privileging the city dialect. The varieties of Padua, Vicenza, Verona, Treviso, and Belluno are distinct but mutually intelligible, and this grammar draws primarily from central Venetian (Padovano-Vicentino) while noting regional variation.
+
 This choice is partly practical: central Venetian is what you are most likely to encounter, and it is well documented. But it also reflects where most Venetian speakers actually live: not in the tourist-filled streets of Venice, but in the towns and cities of the *terraferma*, the mainland.
 
 Where significant variations exist between regional varieties, we note them.
