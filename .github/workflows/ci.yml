@@ -36,21 +36,23 @@ jobs:
         uses: Swatinem/rust-cache@v2
 
       - name: Install link checker
-        run: |
-          cargo install mdbook-linkcheck || true
+        run: cargo install mdbook-linkcheck || true
 
       - name: Build with linkcheck
         run: mdbook build
         continue-on-error: true
 
-  markdown-lint:
+  mdbook-lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Lint markdown files
-        uses: DavidAnson/markdownlint-cli2-action@v19
-        with:
-          globs: "src/**/*.md"
-          config: ".markdownlint.json"
+      - name: Rust cache
+        uses: Swatinem/rust-cache@v2
+
+      - name: Install mdbook-lint
+        run: cargo install mdbook-lint || true
+
+      - name: Run mdbook-lint
+        run: mdbook-lint src/
         continue-on-error: true

@@ -1,4 +1,4 @@
-name: Deploy mdBook to GitHub Pages
+name: Deploy
 
 on:
   push:
@@ -24,7 +24,7 @@ jobs:
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
         with:
-          mdbook-version: 'latest'
+          mdbook-version: "latest"
 
       - name: Build book
         run: mdbook build
