@@ -32,6 +32,9 @@ jobs:
         with:
           mdbook-version: "latest"
 
+      - name: Rust cache
+        uses: Swatinem/rust-cache@v2
+
       - name: Install link checker
         run: |
           cargo install mdbook-linkcheck || true
