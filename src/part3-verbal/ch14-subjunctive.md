@@ -85,7 +85,8 @@ The most common verbs have irregular subjunctive forms:
 
 The imperfect subjunctive is used in hypothetical conditions and in past contexts requiring the subjunctive.
 
-### Formation
+### Formation 2
+
 
 **-ar verbs (*magnar*):**
 
@@ -212,6 +213,7 @@ In casual spoken Venetian, the indicative often replaces the subjunctive:
 | *Penso che i gabia rason.* | *Penso che i ga rason.* |
 
 This shift is more pronounced in Venetian than in standard Italian. However, the subjunctive remains in:
+
 - Set expressions and proverbs
 - Formal or careful speech
 - After *bisogna che*, *parché* (purpose), *prima che*
@@ -230,7 +232,8 @@ When the subject is the same, the infinitive is preferred:
 
 The pluperfect subjunctive expresses hypothetical past situations. It's formed with the imperfect subjunctive of the auxiliary plus the past participle.
 
-### Formation
+### Formation 3
+
 
 | With *gavér* | With *èsser* |
 |--------------|--------------|

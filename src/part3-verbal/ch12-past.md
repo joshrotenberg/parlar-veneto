@@ -170,23 +170,28 @@ Both *gèra* and *era* forms exist for *èsser*; *gèra* is more distinctively V
 ### Uses of the Imperfect
 
 **Habitual past actions:**
+
 - *Quando che gèro puteo, xogava sempre in strada.* (When I was a kid, I always played in the street.)
 - *Ogni domenega ndàvimo da me nona.* (Every Sunday we went to my grandmother's.)
 
 **Ongoing background actions:**
+
 - *Piové e tirèa vento.* (It was raining and the wind was blowing.)
 - *Gèra le sié de sera.* (It was six in the evening.)
 
 **Descriptions in the past:**
+
 - *La casa gèra granda e vècia.* (The house was big and old.)
 - *El gavéa i cavei bianchi.* (He had white hair.)
 
 **States and conditions:**
+
 - *Gavéa fame.* (I was hungry.)
 - *No stava ben.* (He wasn't well.)
 - *No savéa cossa far.* (I didn't know what to do.)
 
 **Interrupted actions:**
+
 - *Magnava quando che xe rivà Marco.* (I was eating when Marco arrived.)
 - *Dormìa e me ga ciamà al telefono.* (I was sleeping and they called me.)
 
@@ -202,6 +207,7 @@ The distinction parallels Italian:
 | *Studiava sempre.* (I always studied.) | *Go studià ieri.* (I studied yesterday.) |
 
 Often both appear in the same sentence:
+
 - *Magnava quando che el xe rivà.* (I was eating when he arrived.)
 - *Gèra le oto quando che son partìo.* (It was eight o'clock when I left.)
 
@@ -209,7 +215,8 @@ Often both appear in the same sentence:
 
 The pluperfect describes actions completed before another past action. It's formed with the imperfect of the auxiliary plus the past participle.
 
-### Formation
+### Formation 2
+
 
 | With *gavér* | With *èsser* |
 |--------------|--------------|
@@ -243,6 +250,7 @@ The *passato remoto* (simple past) exists in Venetian but is rarely used in ever
 ### Sample Forms
 
 **-ar verbs (*magnar*):**
+
 - *magnè* (I ate), *te magnèsti*, *el magnè*, *magnèssimo*, *magnèste*, *i magnè*
 
 **-er verbs (*véder*):**
@@ -260,6 +268,7 @@ Translation:
 > Yesterday I was at home, I wasn't feeling well. I had eaten too much the night before and my stomach hurt. At ten Marco called me and told me they were going to the bar. I said yes, got dressed, and went out. When I arrived, they were already there, drinking spritz. I ordered a glass of wine and we stayed until midnight.
 
 Notice:
+
 - **Imperfect** for states and background: *gèro*, *stava*, *fasèa mal*, *gèra*, *bevéa*
 - **Pluperfect** for earlier action: *gavéa magnà*
 - **Passato prossimo** for completed events: *ga ciamà*, *ga dito*, *go dito*, *me son vestìo*, *son ndà*, *son rivà*, *go ordinà*, *semo restài*

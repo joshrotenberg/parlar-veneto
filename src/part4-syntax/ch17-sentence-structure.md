@@ -267,6 +267,7 @@ Basic coordinators work as in Italian:
 ### Diagnostic Features
 
 These sentence-level features mark speech as Venetian:
+
 1. Clitic doubling with full subject NPs
 2. *In* for locations where Italian uses *a/al*
 3. Negation with *no* instead of *non*

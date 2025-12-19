@@ -20,6 +20,7 @@ First conjugation verbs are the most common. The model verb is *parlar* (to spea
 | lore | *lore le parla* | *le parla* | they (f.) speak |
 
 **Notes:**
+
 - The emphatic pronoun (*mi*, *ti*, *lu*, etc.) is optional
 - The clitic (*te*, *el*, *la*, *i*, *le*) is **required** for 2nd and 3rd person
 - 3sg and 3pl have identical verb forms (*parla*) - the clitic distinguishes them
@@ -39,6 +40,9 @@ First conjugation verbs are the most common. The model verb is *parlar* (to spea
 ### More First Conjugation Verbs
 
 **Magnar** (to eat):
+
+
+
 | Person | Form |
 |--------|------|
 | mi | *magno* |
@@ -49,6 +53,10 @@ First conjugation verbs are the most common. The model verb is *parlar* (to spea
 | lori/lore | *i/le magna* |
 
 **Laorar** (to work):
+
+
+
+
 | Person | Form |
 |--------|------|
 | mi | *laoro* |
@@ -59,6 +67,11 @@ First conjugation verbs are the most common. The model verb is *parlar* (to spea
 | lori/lore | *i/le laora* |
 
 **Portar** (to carry):
+
+
+
+
+
 | Person | Form |
 |--------|------|
 | mi | *porto* |
@@ -134,6 +147,17 @@ Third conjugation verbs divide into two subgroups:
 Other Type A verbs: *dormir* (to sleep), *sentir* (to hear/feel)
 
 **Dormir** (to sleep):
+
+
+
+
+
+
+
+
+
+
+
 | Person | Form |
 |--------|------|
 | mi | *dormo* |
@@ -159,6 +183,19 @@ Many -ir verbs add **-is-** before the ending in 1sg, 2sg, 3sg, and 3pl. This pa
 Other Type B verbs: *capir* (to understand), *preferir* (to prefer)
 
 **Capir** (to understand):
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Person | Form |
 |--------|------|
 | mi | *capiso* |
@@ -211,14 +248,17 @@ Despite these variations, the clitic system is universal. *Te* (or *ti* in Venic
 As in Italian, the present tense expresses:
 
 **Current actions:**
+
 - *Cossa te feto?* (What are you doing?)
 - *Magno un tramezzin.* (I'm eating a sandwich.)
 
 **General truths:**
+
 - *L'aqua la boje a sento gradi.* (Water boils at 100 degrees.)
 - *El sol el leva a est.* (The sun rises in the east.)
 
 **Habitual actions:**
+
 - *Laoro tute le matine.* (I work every morning.)
 - *El va a Venessia ogni setimana.* (He goes to Venice every week.)
 

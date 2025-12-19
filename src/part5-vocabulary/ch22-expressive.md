@@ -60,6 +60,7 @@ No word is more essentially Venetian than *mona*. Its primary meaning is vulgar 
 ### In Affection (Among Friends)
 
 Among close friends, *mona* can be almost affectionate:
+
 - *Ciao mona, come steto?* (Hey idiot, how are you?)
 
 ### The Feminine Form
@@ -87,6 +88,7 @@ Beyond *mona*, Venetian has many ways to add emphasis:
 ### Emphatic Reduplication
 
 Like Italian, Venetian uses repetition for emphasis:
+
 - *piano piano* (very slowly)
 - *beo beo* (really beautiful)
 - *bon bon* (really good)
@@ -224,7 +226,8 @@ The particle *ciò* (pronounced /tʃɔ/, like "choh" with an open O) is one of t
 | *Ma ciò...* | But like... |
 | *Ciò, scolta!* | Hey, listen! |
 
-### As an Intensifier
+### As an Intensifier 2
+
 
 *Ciò* can add emphasis or urgency:
 

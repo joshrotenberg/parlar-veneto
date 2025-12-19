@@ -5,11 +5,13 @@ This glossary collects key Venetian words appearing throughout the grammar, orga
 ## A
 
 **acqua** *n.f.* - water
+
 - *acqua alta* - high water (Venice flooding)
 
 **anca** *adv.* - also, too (Italian: *anche*)
 
 **andar / ndar** *v.* - to go
+
 - *Ndemo!* - Let's go!
 
 **ancó / oncó** *adv.* - today (Italian: *oggi*)
@@ -80,9 +82,11 @@ This glossary collects key Venetian words appearing throughout the grammar, orga
 ## F
 
 **fame** *n.f.* - hunger
+
 - *Go fame.* - I'm hungry.
 
 **far** *v.* - to do, to make
+
 - *Cossa te feto?* - What are you doing?
 
 **fiol / fiola** *n.* - son / daughter
@@ -104,6 +108,7 @@ This glossary collects key Venetian words appearing throughout the grammar, orga
 **gavér** *v.* - to have (see *aver*)
 
 **ghe** *pron./adv.* - to him/her/them; there
+
 - *Ghe xe...* - There is/are...
 
 **gnanca** *adv.* - not even
@@ -143,6 +148,7 @@ This glossary collects key Venetian words appearing throughout the grammar, orga
 **marì** *n.m.* - husband
 
 **miga** *adv.* - at all (emphatic negation)
+
 - *No go miga capìo.* - I didn't understand at all.
 
 **moeche** *n.f.pl.* - soft-shell crabs
@@ -174,6 +180,7 @@ This glossary collects key Venetian words appearing throughout the grammar, orga
 **ocio** *interj.* - watch out! (lit. "eye")
 
 **ombra** *n.f.* - glass of wine (lit. "shadow")
+
 - *Ndemo par un'ombra?* - Shall we go for a glass?
 
 **omo** *n.m.* - man
@@ -197,6 +204,7 @@ This glossary collects key Venetian words appearing throughout the grammar, orga
 **pesse** *n.m.* - fish
 
 **piaser** *n.m.* - pleasure
+
 - *par piaser* - please
 
 **polenta** *n.f.* - polenta
@@ -212,6 +220,7 @@ This glossary collects key Venetian words appearing throughout the grammar, orga
 ## Q
 
 **quando** *adv.* - when
+
 - *quando che* - when (with Venetian *che* insertion)
 
 **queło** *pron.* - that

@@ -249,7 +249,8 @@ The subjunctive/imperative appears in exclamatory wishes:
 | 2pl (vu) | *Magné!* | *Vedé!* | *Partì!* |
 | 1pl (nu) | *Magnemo!* | *Vedemo!* | *Partimo!* |
 
-### Common Irregular Imperatives
+### Common Irregular Imperatives 2
+
 
 | Infinitive | 2sg | 1pl |
 |------------|-----|-----|

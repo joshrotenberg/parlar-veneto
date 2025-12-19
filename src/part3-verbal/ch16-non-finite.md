@@ -24,37 +24,44 @@ Note: Italian *-are* becomes *-ar*, reflecting the characteristic loss of final 
 ### Uses of the Infinitive
 
 **After modal verbs (*poder*, *voler*, *dover*, *saver*):**
+
 - *Posso magnar?* (Can I eat?)
 - *Vòjo partir.* (I want to leave.)
 - *Devo andar.* (I have to go.)
 - *No so far queło.* (I don't know how to do that.)
 
 **After verbs of perception:**
+
 - *Go visto rivar el treno.* (I saw the train arrive.)
 - *Sento cantar i oxełi.* (I hear the birds singing.)
 
 **After *far* and *lassar*:**
+
 - *Fame saver.* (Let me know.)
 - *Làsseme parlar!* (Let me speak!)
 - *El me ga fato spetar.* (He made me wait.)
 
 **After prepositions:**
+
 - *Son qua par magnar.* (I'm here to eat.)
 - *Prima de partir...* (Before leaving...)
 - *Sensa dir gnente...* (Without saying anything...)
 - *Dopo aver magnà...* (After having eaten...)
 
 **As subject or object:**
+
 - *Magnar xe necessario.* (Eating is necessary.)
 - *Bevér massa no xe bon.* (Drinking too much isn't good.)
 - *Me piase laorar.* (I like to work.)
 
 **With *da* (expressing necessity or purpose):**
+
 - *Ghe xe tanto da far.* (There's so much to do.)
 - *Xe na roba da véder.* (It's something to see.)
 - *Acqua da bever.* (Drinking water.)
 
 **In negative commands (2sg):**
+
 - *No parlar!* (Don't speak!)
 - *No tocar!* (Don't touch!)
 
@@ -70,6 +77,7 @@ The past infinitive is formed with *aver/gavér* or *èsser* + past participle:
 | *èsser rivà* | to have arrived |
 
 Used after prepositions for completed actions:
+
 - *Dopo aver magnà, son ndà fora.* (After having eaten, I went out.)
 - *Sensa aver capìo gnente...* (Without having understood anything...)
 
@@ -102,18 +110,22 @@ Add *-ando* to -ar stems, *-endo* to -er/-ir stems:
 ### Uses of the Gerund
 
 **Simultaneous action:**
+
 - *El magna vardando la TV.* (He eats while watching TV.)
 - *Son rivà corendo.* (I arrived running.)
 
 **Cause or reason:**
+
 - *Essendo stanco, me son sentà.* (Being tired, I sat down.)
 - *No gavendo schei, no posso comprar gnente.* (Not having money, I can't buy anything.)
 
 **Manner:**
+
 - *El ga risposto ridendo.* (He answered laughing.)
 - *La xe entrà pianxendo.* (She came in crying.)
 
 **Progressive construction (*star* + gerund):**
+
 - *Cossa te stè fasendo?* (What are you doing?)
 - *Stago magnando.* (I'm eating.)
 - *El stava dormendo.* (He was sleeping.)
@@ -191,28 +203,33 @@ Many common verbs have irregular participles (see also Chapter 12):
 ### Uses of the Past Participle
 
 **In compound tenses:**
+
 - *Go magnà.* (I have eaten.)
 - *Son partìo.* (I have left.)
 - *Gavéa visto.* (I had seen.)
 
 **As adjective:**
+
 - *la porta verta* (the open door)
 - *el libro scrito in veneto* (the book written in Venetian)
 - *i puti stanchi* (the tired children)
 - *le finestre rote* (the broken windows)
 
 **In absolute constructions:**
+
 - *Finìo el laoro, son ndà a casa.* (Work finished, I went home.)
 - *Dito queo, el xe partìo.* (Having said that, he left.)
 
 **In passive constructions (see below):**
+
 - *El libro xe stà scrito in veneto.* (The book was written in Venetian.)
 
 ## 16.4 The Present Participle
 
 The present participle is less common than in Italian. It functions mainly as an adjective.
 
-### Formation
+### Formation 2
+
 
 Add *-ante* (for -ar verbs) or *-ente* (for -er/-ir verbs) to the stem:
 
@@ -227,18 +244,21 @@ Add *-ante* (for -ar verbs) or *-ente* (for -er/-ir verbs) to the stem:
 ### Uses
 
 Mainly as adjectives:
+
 - *acqua corente* (running water)
 - *la setimana seguente* (the following week)
 - *un film interessante* (an interesting film)
 
 The gerund is preferred for verbal uses:
+
 - *Vedendo queło...* (Seeing that...) - not *vedente*
 
 ## 16.5 Passive Constructions
 
 The passive voice uses *èsser* + past participle:
 
-### Formation
+### Formation 3
+
 
 | Tense | Active | Passive |
 |-------|--------|---------|
@@ -250,6 +270,7 @@ The passive voice uses *èsser* + past participle:
 ### With Agent (*da*)
 
 The agent is introduced by *da*:
+
 - *El libro xe stà scrito da un veneto.* (The book was written by a Venetian.)
 - *La casa xe stàa costruìa da me nono.* (The house was built by my grandfather.)
 
@@ -268,6 +289,7 @@ The agent is introduced by *da*:
 ### Impersonal *se*
 
 An alternative to the passive is the impersonal *se*:
+
 - *Qua se parla veneto.* (Venetian is spoken here.)
 - *Come se dise?* (How do you say it? / How is it said?)
 - *No se sa mai.* (You never know. / It's never known.)

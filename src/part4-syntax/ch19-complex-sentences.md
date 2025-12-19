@@ -41,11 +41,14 @@ Temporal conjunctions often take the *che* insertion discussed in Chapter 18:
 
 | Venetian | Italian | English |
 |----------|---------|---------|
-| ***Quando che** el riva, magnemo.* | *Quando arriva, mangiamo.* | When he arrives, we'll eat. |
-| ***Prima che** el partissa...* | *Prima che partisse...* | Before he left... |
+| ***Quando che** el riva, magnemo.*|*Quando arriva, mangiamo.* | When he arrives, we'll eat. |
+
+| ***Prima che** el partissa...*|*Prima che partisse...* | Before he left... |
+
 | ***Dopo che** i ga finì...* | *Dopo che hanno finito...* | After they finished... |
 | ***Fin che** no el vien...* | *Finché non viene...* | Until he comes... |
-| ***Da quando che** son qua...* | *Da quando sono qui...* | Since I've been here... |
+| ***Da quando che** son qua...*|*Da quando sono qui...* | Since I've been here... |
+
 
 ### Concessive Clauses
 
@@ -73,18 +76,42 @@ Temporal conjunctions often take the *che* insertion discussed in Chapter 18:
 When a preposition is involved, Venetian has several options:
 
 **Option 1: Preposition + *che* (informal)**
+
+
+
+
+
+
+
 | Venetian | English |
 |----------|---------|
 | *El posto **in che** stago.* | The place where I live. |
 | *La persona **con che** parlo.* | The person I'm talking to. |
 
 **Option 2: Using *dove che*, *cuando che*, etc.**
+
+
+
+
+
+
+
+
 | Venetian | English |
 |----------|---------|
 | *El posto **dove che** stago.* | The place where I live. |
 | *El dì **quando che** son rivà.* | The day when I arrived. |
 
 **Option 3: Preposition stranding (colloquial)**
+
+
+
+
+
+
+
+
+
 | Venetian | English |
 |----------|---------|
 | *El omo **che** parlo **con**.* | The man I'm talking to. |
@@ -287,6 +314,7 @@ Or remain before the modal:
 ### The *Che* Insertion Pattern
 
 Venetian characteristically inserts *che* after:
+
 - Temporal conjunctions: *quando che*, *fin che*, *da quando che*
 - Locative expressions: *dove che*
 - Manner expressions: *come che*
@@ -300,6 +328,7 @@ This feature is absent in standard Italian and serves as a reliable marker of Ve
 > (I don't know when he's arriving at the bar.)
 
 This single sentence contains three Venetian markers:
+
 1. *quando che* (not *quando*)
 2. *in bar* (not *al bar*)  
 3. Clitic *el* before verb

@@ -47,6 +47,7 @@ Some adjectives have only two forms (same for masculine and feminine):
 | **Both genders** | -e | -i |
 
 **Example: *grande* (big, great)**
+
 - *el omo grande* (the great man)
 - *la dona grande* (the great woman)
 - *i omini grandi* (the great men)
@@ -119,6 +120,7 @@ When multiple adjectives modify a noun, they typically follow it, joined by *e* 
 - *un omo alto e magro* (a tall and thin man)
 
 Or one before and one after:
+
 - *na bea casa granda* (a beautiful big house)
 
 ## 6.3 Comparison
@@ -172,6 +174,7 @@ Some common adjectives have irregular comparative/superlative forms:
 | *poco* | *manco* | *el manco* | little, less, least |
 
 Examples:
+
 - *Sto vin xe mejo de queło.* (This wine is better than that one.)
 - *Xe el mejo vin de la zona.* (It's the best wine in the area.)
 - *Va sempre pexo.* (It keeps getting worse.)
@@ -235,6 +238,7 @@ With close family members, the article is often dropped:
 - *so fradel* (his/her brother)
 
 But kept with plurals and modified nouns:
+
 - *i me fradei* (my brothers)
 - *el me caro nono* (my dear grandfather)
 
@@ -254,6 +258,7 @@ Common indefinite adjectives:
 | *qualunque* | *qualunque* | any, whatever |
 
 Examples:
+
 - *Ogni xorno* (every day)
 - *Qualche volta* (sometimes)
 - *Tuti i tosi* (all the boys)

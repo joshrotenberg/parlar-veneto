@@ -20,7 +20,8 @@ A general grammatical manual written in Venetian, offering a native-language per
 
 The primary online Venetian dictionary, containing approximately 37,000 Venetian entries with translations to Italian and English. The name *galepin* is the Venetian word for "dictionary." An essential resource for vocabulary verification and usage examples.
 
-**BOE** - Boerio, Giuseppe. *Dizionario del dialetto veneziano*. 2nd ed. Venice: Tipografia di G. Cecchini, 1856. Available on [Internet Archive](https://archive.org/details/bub_gb_Z6TGQeb-Xd4C) and [linguaveneta.net](http://www.linguaveneta.net/dizionario-del-dialetto-veneziano-di-giuseppe-boerio/).
+**BOE** - Boerio, Giuseppe. *Dizionario del dialetto veneziano*. 2nd ed. Venice: Tipografia di G. Cecchini, 1856. Available on [Internet Archive](https://archive.org/details/bub*gb*Z6TGQeb-Xd4C) and [linguaveneta.net](http://www.linguaveneta.net/dizionario-del-dialetto-veneziano-di-giuseppe-boerio/).
+
 
 The classic historical dictionary of Venetian, first compiled by Boerio (1754-1832). The 1856 second edition, edited by Daniele Manin, contains 802 pages and remains invaluable for historical vocabulary, etymology, and expressions that have since fallen out of use. Boerio described Venetian as "after Tuscan, the most beautiful of Italian dialects."
 
@@ -109,6 +110,7 @@ Scholarly treatment of Venetian within the broader context of Romance linguistic
 [linguaveneta.net](http://www.linguaveneta.net/) - Official site of the Consiglio Regionale del Veneto for Venetian language resources.
 
 This portal serves as the central hub for Venetian language materials, hosting:
+
 - Belloni's *Grammatica Veneta* (PDF)
 - Boerio's historical dictionary (PDF)
 - Multiple other dictionaries and grammatical resources

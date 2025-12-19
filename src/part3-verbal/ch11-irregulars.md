@@ -20,6 +20,7 @@ One of the most common verbs in any language. Venetian *andar* is irregular in t
 | lori/lore | *i/le va* | they go |
 
 **Notes:**
+
 - 1sg *vago* (not *ando*)
 - 2sg and 3sg/pl use the short stem *va*
 - 1pl and 2pl have two forms: *ndemo/ndè* (more common colloquially) and *andemo/andè*
@@ -57,7 +58,8 @@ The exclamation *Ndemo!* is extremely common - you will hear it constantly.
 
 Another essential verb, used even more broadly than Italian *fare*.
 
-### Present Indicative
+### Present Indicative 2
+
 
 | Person | Form | English |
 |--------|------|---------|
@@ -69,10 +71,12 @@ Another essential verb, used even more broadly than Italian *fare*.
 | lori/lore | *i/le fa* | they do/make |
 
 **Notes:**
+
 - 1sg has two forms: *fago* (more Paduan) and *fasso* (more Venetian)
 - The stem *fa* appears in 2sg, 3sg, and 3pl
 
-### Imperative
+### Imperative 2
+
 
 | Person | Form | Example |
 |--------|------|---------|
@@ -80,14 +84,16 @@ Another essential verb, used even more broadly than Italian *fare*.
 | nu | *femo!* | *Femo festa!* (Let's party!) |
 | vu | *fè!* | *Fè atension!* (Pay attention!) |
 
-### Past Participle
+### Past Participle 2
+
 
 *fato* - done, made
 
 - *Cossa te ghe fato?* (What did you do to him?)
 - *Go fato ben.* (I did well.)
 
-### Common Expressions
+### Common Expressions 2
+
 
 | Venetian | English |
 |----------|---------|
@@ -104,7 +110,8 @@ Another essential verb, used even more broadly than Italian *fare*.
 
 Essential for reported speech and everyday communication.
 
-### Present Indicative
+### Present Indicative 3
+
 
 | Person | Form | English |
 |--------|------|---------|
@@ -116,10 +123,12 @@ Essential for reported speech and everyday communication.
 | lori/lore | *i/le dise* | they say |
 
 **Notes:**
+
 - The stem alternates between *dig-* (1sg) and *dis-* (elsewhere)
 - Follows a pattern similar to Italian *dire*
 
-### Imperative
+### Imperative 3
+
 
 | Person | Form | Example |
 |--------|------|---------|
@@ -127,14 +136,16 @@ Essential for reported speech and everyday communication.
 | nu | *disemo!* | *Disemoghe!* (Let's tell him!) |
 | vu | *disì!* | *Disì!* (Tell!) |
 
-### Past Participle
+### Past Participle 3
+
 
 *dito* - said, told
 
 - *Te go dito de no.* (I told you no.)
 - *Cossa te ghe dito?* (What did you say to him?)
 
-### Common Expressions
+### Common Expressions 3
+
 
 | Venetian | English |
 |----------|---------|
@@ -149,7 +160,8 @@ Essential for reported speech and everyday communication.
 
 While *èsser* is the main "to be" verb, *star* is used for states, conditions, and location. It also forms the progressive with *drio*.
 
-### Present Indicative
+### Present Indicative 4
+
 
 | Person | Form | English |
 |--------|------|---------|
@@ -160,7 +172,8 @@ While *èsser* is the main "to be" verb, *star* is used for states, conditions, 
 | vu | *stè* | you (pl.) stay/are |
 | lori/lore | *i/le sta* | they stay/are |
 
-### Imperative
+### Imperative 4
+
 
 | Person | Form | Example |
 |--------|------|---------|
@@ -168,7 +181,8 @@ While *èsser* is the main "to be" verb, *star* is used for states, conditions, 
 | nu | *stemo!* | *Stemo qua!* (Let's stay here!) |
 | vu | *stè!* | *Stè calmi!* (Stay calm!) |
 
-### Past Participle
+### Past Participle 4
+
 
 *stà* - stayed, been
 
@@ -184,7 +198,8 @@ While *èsser* is the main "to be" verb, *star* is used for states, conditions, 
 | States: *Sta sito!* (Be quiet!) | Attributes: *El xe alto.* |
 | Progressive: *Stago drio magnar.* | Definition: *Cos'èło?* |
 
-### Common Expressions
+### Common Expressions 4
+
 
 | Venetian | English |
 |----------|---------|
@@ -200,7 +215,8 @@ While *èsser* is the main "to be" verb, *star* is used for states, conditions, 
 
 Shows the typical second-conjugation vowel alternation.
 
-### Present Indicative
+### Present Indicative 5
+
 
 | Person | Form | English |
 |--------|------|---------|
@@ -213,14 +229,16 @@ Shows the typical second-conjugation vowel alternation.
 
 **Note:** The stressed *é* becomes *i* in unstressed positions (2sg).
 
-### Past Participle
+### Past Participle 5
+
 
 *visto* / *vedù* - seen
 
 - *Te go visto ieri.* (I saw you yesterday.)
 - *No go mai vedù gnente.* (I've never seen anything.)
 
-### Common Expressions
+### Common Expressions 5
+
 
 | Venetian | English |
 |----------|---------|
@@ -234,7 +252,8 @@ Shows the typical second-conjugation vowel alternation.
 
 Irregular throughout. Compare Italian *sapere*.
 
-### Present Indicative
+### Present Indicative 6
+
 
 | Person | Form | English |
 |--------|------|---------|
@@ -247,13 +266,15 @@ Irregular throughout. Compare Italian *sapere*.
 
 **Note:** The singular forms are monosyllabic (*so*, *sa*), while plurals use the full stem *sav-*.
 
-### Past Participle
+### Past Participle 6
+
 
 *savù* / *sapù* - known
 
 - *L'go savù doman.* (I found out tomorrow.)
 
-### Common Expressions
+### Common Expressions 6
+
 
 | Venetian | English |
 |----------|---------|
@@ -268,7 +289,8 @@ Irregular throughout. Compare Italian *sapere*.
 
 Modal verb, essential for expressing ability and possibility.
 
-### Present Indicative
+### Present Indicative 7
+
 
 | Person | Form | English |
 |--------|------|---------|
@@ -280,11 +302,13 @@ Modal verb, essential for expressing ability and possibility.
 | lori/lore | *i/le pòl* | they can |
 
 **Notes:**
+
 - 2sg and 3sg/pl have unique forms (*pòi*, *pòl*)
 - Some speakers use *pol* without the accent
 - 1sg *posso* parallels Italian
 
-### Past Participle
+### Past Participle 7
+
 
 *podù* / *possù* - been able
 
@@ -305,7 +329,8 @@ Modal verb, essential for expressing ability and possibility.
 
 Another essential modal verb.
 
-### Present Indicative
+### Present Indicative 8
+
 
 | Person | Form | English |
 |--------|------|---------|
@@ -317,6 +342,7 @@ Another essential modal verb.
 | lori/lore | *i/le vòl* | they want |
 
 **Notes:**
+
 - Some areas use *vògio* for 1sg
 - 2sg and 3sg/pl share the stem *vò-*
 
@@ -328,17 +354,20 @@ Another essential modal verb.
 | *El vòl?* | *Vòlo?* | Does he want? |
 
 The contracted *Vuto?* is extremely common:
+
 - *Vuto magnar?* (Do you want to eat?)
 - *Vuto véder?* (Do you want to see?)
 - *Vuto vegnir?* (Do you want to come?)
 
-### Past Participle
+### Past Participle 8
+
 
 *volù* / *vossù* - wanted
 
 - *Go volù farlo.* (I wanted to do it.)
 
-### Common Expressions
+### Common Expressions 7
+
 
 | Venetian | English |
 |----------|---------|
@@ -352,7 +381,8 @@ The contracted *Vuto?* is extremely common:
 
 Irregular, with a stem change in the present.
 
-### Present Indicative
+### Present Indicative 9
+
 
 | Person | Form | English |
 |--------|------|---------|
@@ -365,7 +395,8 @@ Irregular, with a stem change in the present.
 
 **Note:** The stem alternates between *végn-* and *vien-*.
 
-### Imperative
+### Imperative 5
+
 
 | Person | Form | Example |
 |--------|------|---------|
@@ -373,14 +404,16 @@ Irregular, with a stem change in the present.
 | nu | *vegnimo!* | *Vegnimo!* (Let's come!) |
 | vu | *vegnì!* | *Vegnì dentro!* (Come inside!) |
 
-### Past Participle
+### Past Participle 9
+
 
 *vegnù* - come
 
 - *Son vegnù a véderlo.* (I came to see him.)
 - *Xe vegnù fora el sol.* (The sun came out.)
 
-### Common Expressions
+### Common Expressions 8
+
 
 | Venetian | English |
 |----------|---------|
@@ -395,7 +428,8 @@ Irregular, with a stem change in the present.
 
 A distinctively Venetian verb (compare Italian *prendere*).
 
-### Present Indicative
+### Present Indicative 10
+
 
 | Person | Form | English |
 |--------|------|---------|
@@ -406,14 +440,16 @@ A distinctively Venetian verb (compare Italian *prendere*).
 | vu | *togì* | you (pl.) take |
 | lori/lore | *i/le tòl* | they take |
 
-### Past Participle
+### Past Participle 10
+
 
 *tolto* / *tòlto* - taken
 
 - *Go tolto un café.* (I had a coffee.)
 - *Chi ga tolto le ciave?* (Who took the keys?)
 
-### Common Expressions
+### Common Expressions 9
+
 
 | Venetian | English |
 |----------|---------|
@@ -425,7 +461,8 @@ A distinctively Venetian verb (compare Italian *prendere*).
 
 ## 11.11 Meter (to put)
 
-### Present Indicative
+### Present Indicative 11
+
 
 | Person | Form | English |
 |--------|------|---------|
@@ -436,14 +473,16 @@ A distinctively Venetian verb (compare Italian *prendere*).
 | vu | *metì* | you (pl.) put |
 | lori/lore | *i/le méte* | they put |
 
-### Past Participle
+### Past Participle 11
+
 
 *méso* / *metù* - put
 
 - *Dove te ghe méso?* (Where did you put it?)
 - *Go méso via.* (I put it away.)
 
-### Common Expressions
+### Common Expressions 10
+
 
 | Venetian | English |
 |----------|---------|
@@ -455,7 +494,8 @@ A distinctively Venetian verb (compare Italian *prendere*).
 
 ## 11.12 Dàr (to give)
 
-### Present Indicative
+### Present Indicative 12
+
 
 | Person | Form | English |
 |--------|------|---------|
@@ -466,7 +506,8 @@ A distinctively Venetian verb (compare Italian *prendere*).
 | vu | *dè* | you (pl.) give |
 | lori/lore | *i/le da* | they give |
 
-### Imperative
+### Imperative 6
+
 
 | Person | Form | Example |
 |--------|------|---------|
@@ -476,13 +517,15 @@ A distinctively Venetian verb (compare Italian *prendere*).
 
 The expression *Daghe!* is very common as encouragement, similar to "Come on!" or "Go for it!"
 
-### Past Participle
+### Past Participle 12
+
 
 *dà* / *dato* - given
 
 - *Te go dà tuto.* (I gave you everything.)
 
-### Common Expressions
+### Common Expressions 11
+
 
 | Venetian | English |
 |----------|---------|
