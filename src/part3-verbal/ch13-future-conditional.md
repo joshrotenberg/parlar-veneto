@@ -71,7 +71,7 @@ Common verbs have irregular future stems:
 | *star* | *star-* | *starò* (I will stay) |
 | *dar* | *dar-* | *darò* (I will give) |
 
-### Full Conjugation: *Èsser* and *Gavér*
+### Future of *Èsser* and *Gavér*
 
 | Person | *èsser* | *gavér* |
 |--------|---------|---------|
@@ -85,16 +85,19 @@ Common verbs have irregular future stems:
 ### Uses of the Future
 
 **Predictions and expectations:**
+
 - *Doman piovarà.* (Tomorrow it will rain.)
 - *El sarà contento.* (He'll be happy.)
 - *Gavaremo bel tempo.* (We'll have nice weather.)
 
 **Promises and intentions:**
+
 - *Te ciamerò doman.* (I'll call you tomorrow.)
 - *Vegnarò de sicuro.* (I'll definitely come.)
 - *No lo farò pi.* (I won't do it again.)
 
 **Conjecture about the present:**
+
 - *Sarà le diese.* (It must be ten o'clock.)
 - *El gavarà sinquant'ani.* (He must be about fifty.)
 - *Dove sarà-lo?* (Where could he be?)
@@ -111,6 +114,7 @@ In everyday speech, Venetians often use the present tense for future actions, es
 | *Vegno subito.* | *Vegnarò subito.* | I'm coming right away. |
 
 The present is especially common with:
+
 - Time expressions (*doman*, *stasera*, *dopo*)
 - Verbs of motion (*andar*, *vegnir*, *partir*)
 - Immediate or planned actions
@@ -119,7 +123,8 @@ The present is especially common with:
 
 The conditional expresses hypothetical situations, polite requests, and desires. It's also used in the consequence clause of conditional sentences.
 
-### Formation
+### Formation 2
+
 
 Like the future, the conditional uses the infinitive stem with distinctive endings:
 
@@ -182,7 +187,7 @@ The same verbs with irregular future stems have irregular conditional stems:
 | *far* | *far-* | *farìa* (I would do) |
 | *dir* | *dir-* | *dirìa* (I would say) |
 
-### Full Conjugation: *Èsser* and *Gavér*
+### Conditional of *Èsser* and *Gavér*
 
 | Person | *èsser* | *gavér* |
 |--------|---------|---------|
@@ -196,26 +201,31 @@ The same verbs with irregular future stems have irregular conditional stems:
 ### Uses of the Conditional
 
 **Polite requests:**
+
 - *Vorarìa un cafè, par piaser.* (I'd like a coffee, please.)
 - *Podarìsi dirme che ora xela?* (Could you tell me what time it is?)
 - *Gavarìsi da canbiar?* (Would you have change?)
 
 **Wishes and desires:**
+
 - *Me piasarìa ndar in vacansa.* (I'd like to go on vacation.)
 - *Vorarìa che el vegnesse.* (I'd like him to come.)
 - *Sarìa beo!* (That would be nice!)
 
 **Softened statements:**
+
 - *Dirìa de sì.* (I'd say yes.)
 - *Parìa che piova.* (It looks like it might rain.)
 - *Gavarìa da èsser qua.* (He should be here.)
 
 **Advice and suggestions:**
+
 - *Dovarìsi parlar con lu.* (You should talk to him.)
 - *Podarìsimo provar.* (We could try.)
 - *Al posto to, andarìa.* (In your place, I'd go.)
 
 **Reported speech (future in the past):**
+
 - *El ga dito che el sarìa vegnù.* (He said he would come.)
 - *Pensava che i gavarìa finìo.* (I thought they would have finished.)
 
@@ -261,6 +271,7 @@ For contrary-to-fact past situations, use the pluperfect subjunctive and past co
 | | (If I had known, I would have come.) |
 
 The past conditional is formed with the conditional of the auxiliary plus past participle:
+
 - *sarìa ndà* (I would have gone)
 - *gavarìa fato* (I would have done)
 - *se sarìa svejà* (he would have woken up)
@@ -325,6 +336,7 @@ The past conditional is formed with the conditional of the auxiliary plus past p
 ### When to Use Present Instead of Future
 
 The present tense commonly replaces the future with:
+
 - Time expressions (*doman*, *stasera*, *dopo*)
 - Motion verbs (*andar*, *vegnir*)
 - Immediate or planned actions

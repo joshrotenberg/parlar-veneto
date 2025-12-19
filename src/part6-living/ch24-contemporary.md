@@ -36,6 +36,7 @@ Analysis of songs like "Made in Veneto," "Na Seen," "Al Bar," and "Na scusa pa b
 Their songs document several thematic areas rarely covered in textbooks:
 
 **Bar culture:**
+
 - *spriss* - the Venetian pronunciation of spritz (note /ts/ → /s/)
 - *ombra de vin* - glass of wine
 - *goti* - glasses
@@ -45,11 +46,13 @@ Their songs document several thematic areas rarely covered in textbooks:
 - *rosolio* - sweet liqueur
 
 **Social terms:**
+
 - *tosi/tosa* - guys/girl
 - *fradel* - brother, also used as "bro" among friends
 - *compare* - buddy, pal
 
 **Rural and working life:**
+
 - *formenton* - cornfield
 - *bagoina* - walking stick
 - *trionfetti* - a traditional card game
@@ -57,6 +60,7 @@ Their songs document several thematic areas rarely covered in textbooks:
 - *laorar* - to work
 
 **Emotional states:**
+
 - *sidià* - annoyed, fed up
 - *inbriago* - drunk
 - *strassa* - exhausted
@@ -97,6 +101,7 @@ Several accounts actively document and promote contemporary Venetian:
 **@proverbiveneti** - Daily proverbs with Italian translations, building a searchable archive of traditional expressions.
 
 **@venetosegreto** - Features "words that should enter Italian," including culturally-rich terms like:
+
 - *freschin* - that specific musty smell of damp, unventilated spaces
 - *ombra de vin* - not just "glass of wine" but the entire cultural ritual surrounding it
 - *punciotto* - traditional Venetian snack, the cicchetti culture staple
@@ -155,6 +160,7 @@ Reporting what someone said in the language they used it:
 ### Triggers for Code-Switching
 
 Speakers often switch to Venetian for:
+
 - Emotional intensity (*Ostia!*, *Porco can!*)
 - In-group solidarity (addressing fellow Venetians)
 - Humor and irony
@@ -162,6 +168,7 @@ Speakers often switch to Venetian for:
 - Establishing authenticity or local credibility
 
 They may switch to Italian for:
+
 - Formal contexts
 - Addressing non-Venetians
 - Technical vocabulary

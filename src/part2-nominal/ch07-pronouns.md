@@ -33,14 +33,17 @@ These are the stressed, independent pronouns used for emphasis or contrast:
 Emphatic pronouns are **optional** and used for:
 
 **Emphasis or contrast:**
+
 - ***Mi** no go fato gnente!* (I didn't do anything! - emphasizing "I")
 - *Ti te lo feto ti, **mi** no.* (You do it, not me.)
 
 **After prepositions:**
+
 - *Vien con **mi**.* (Come with me.)
 - *Xe par **ti**.* (It's for you.)
 
 **In isolation:**
+
 - *Chi xe stà? **Mi**.* (Who was it? Me.)
 
 ## 7.2 The Clitic System
@@ -76,6 +79,7 @@ In Venetian, you say:
 | *Lore **le** magna.* | They(f) they-eat. | They eat. |
 
 Notice:
+
 - 1st person (singular and plural) has **no clitic**
 - 2nd and 3rd person **require** the clitic
 - The emphatic pronoun (*ti*, *lu*, *ea*, etc.) is optional, but the clitic is not
@@ -129,12 +133,15 @@ The clitic comes between *no* and the verb:
 When the subject is postverbal (after the verb), as with unaccusative verbs announcing news or new information, the clitic is dropped:
 
 **Normal (clitic present):**
+
 - *Mé soreła **la** xe rivà.* ([As for] my sister, she has arrived.)
 
 **Impersonal/news announcement (no clitic):**
+
 - *Xe rivà mé soreła.* (My sister has arrived! - news)
 
 In the impersonal form, the past participle stays masculine singular regardless of the subject:
+
 - *Xe rivà mé soreła.* (not *rivàe*, even though *soreła* is feminine)
 
 ### Regional Variation in Clitics
@@ -180,13 +187,16 @@ Note: *ghe* is used for all 3rd person indirect objects (him, her, them), unlike
 *Ghe* is extremely common in Venetian, functioning as:
 
 **Indirect object (to him/her/them):**
+
 - *Ghe digo.* (I tell him/her/them.)
 
 **Locative (there):**
+
 - *Ghe vado doman.* (I'm going there tomorrow.)
 - *No ghe xe gnente.* (There's nothing there.)
 
 **In idiomatic expressions:**
+
 - *Ghe xe...* (There is/are...)
 - *No ghe xe problema.* (No problem.)
 - *Cossa ghe xe?* (What's the matter? / What's there?)
@@ -218,8 +228,11 @@ Reflexive pronouns indicate the action reflects back on the subject:
 | 3rd pl. | *se* | *I se lava.* (They wash themselves.) |
 
 Note: With reflexive verbs, you still need the subject clitic where required:
-- ***Te** te lavi.* (You wash yourself.) - *te* (subject clitic) + *te* (reflexive)
-- ***El** se lava.* (He washes himself.) - *el* (subject clitic) + *se* (reflexive)
+
+- ***Te** te lavi.*(You wash yourself.) -*te* (subject clitic) + *te* (reflexive)
+
+- ***El** se lava.*(He washes himself.) -*el* (subject clitic) + *se* (reflexive)
+
 
 ### Common Reflexive Verbs
 
@@ -247,6 +260,7 @@ Possessive pronouns (standing alone, not modifying a noun) take the definite art
 | theirs | *el so* | *la so* | *i so* | *le so* |
 
 Examples:
+
 - *Sto libro xe **el me**, queło xe **el to**.* (This book is mine, that one is yours.)
 - *La casa xe **la so**.* (The house is his/hers.)
 
@@ -269,6 +283,7 @@ Unlike Italian, which uses *cui* after prepositions, Venetian often uses *che* o
 - *El motivo **par che** / **parché**...* (The reason for which...)
 
 Or with *dove* for places:
+
 - *La casa **dove** stago.* (The house where I live.)
 
 ### *Chi* (whoever, he who)
@@ -279,6 +294,7 @@ Or with *dove* for places:
 ### *Qual* / *El qual*
 
 More formal, used like Italian *il quale*:
+
 - *El toso, **el qual** xe rivà ieri...* (The boy, who arrived yesterday...)
 
 ## Summary

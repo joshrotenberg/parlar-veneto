@@ -16,6 +16,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le xe | i/le gèra | i/le sarà | i/le sarìa | i/le sia | i/le fusse |
 
 **Other forms:**
+
 - Infinitive: *èsser*
 - Past participle: *stà* / *stài* (m.sg.), *stàa* (f.sg.), *stài* (m.pl.), *stàe* (f.pl.)
 - Gerund: *essendo*
@@ -35,6 +36,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le ga | i/le gavéa | i/le gavarà | i/le gavarìa | i/le gabia | i/le gavésse |
 
 **Other forms:**
+
 - Infinitive: *gavér* / *aver*
 - Past participle: *avù* / *abù*
 - Gerund: *gavendo* / *avendo*
@@ -56,6 +58,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le magna | i/le magnava | i/le magnarà | i/le magnarìa | i/le magna | i/le magnasse |
 
 **Other forms:**
+
 - Infinitive: *magnar*
 - Past participle: *magnà*
 - Gerund: *magnando*
@@ -76,6 +79,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le vede | i/le vedéa | i/le vedarà | i/le vedarìa | i/le veda | i/le vedésse |
 
 **Other forms:**
+
 - Infinitive: *véder*
 - Past participle: *visto*
 - Gerund: *vedendo*
@@ -95,6 +99,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le parte | i/le partìa | i/le partirà | i/le partirìa | i/le parta | i/le partisse |
 
 **Other forms:**
+
 - Infinitive: *partir*
 - Past participle: *partìo* / *partì*
 - Gerund: *partendo*
@@ -116,6 +121,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le va | i/le ndava | i/le andarà | i/le andarìa | i/le vaga | i/le ndasse |
 
 **Other forms:**
+
 - Infinitive: *andar* / *ndar*
 - Past participle: *ndà* / *andà*
 - Gerund: *ndando*
@@ -135,6 +141,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le vien | i/le vegnìa | i/le vegnarà | i/le vegnarìa | i/le vegna | i/le vegnisse |
 
 **Other forms:**
+
 - Infinitive: *vegnir*
 - Past participle: *vegnù*
 - Gerund: *vegnendo*
@@ -154,6 +161,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le fa | i/le faséa | i/le farà | i/le farìa | i/le faga | i/le fasésse |
 
 **Other forms:**
+
 - Infinitive: *far*
 - Past participle: *fato*
 - Gerund: *fasendo*
@@ -173,6 +181,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le dise | i/le diséa | i/le dirà | i/le dirìa | i/le diga | i/le disésse |
 
 **Other forms:**
+
 - Infinitive: *dir*
 - Past participle: *dito*
 - Gerund: *disendo*
@@ -192,6 +201,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le da | i/le dava | i/le darà | i/le darìa | i/le daga | i/le dasse |
 
 **Other forms:**
+
 - Infinitive: *dar*
 - Past participle: *dà* / *dato*
 - Gerund: *dando*
@@ -211,6 +221,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le sta | i/le stava | i/le starà | i/le starìa | i/le staga | i/le stasse |
 
 **Other forms:**
+
 - Infinitive: *star*
 - Past participle: *stà*
 - Gerund: *stando*
@@ -230,6 +241,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le pol | i/le podéa | i/le podarà | i/le podarìa | i/le possa | i/le podésse |
 
 **Other forms:**
+
 - Infinitive: *poder*
 - Past participle: *podù* / *possù*
 - Gerund: *podendo*
@@ -248,6 +260,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le vol | i/le voléa | i/le vorarà | i/le vorarìa | i/le vòja | i/le volésse |
 
 **Other forms:**
+
 - Infinitive: *voler*
 - Past participle: *volù* / *vossù*
 - Gerund: *volendo*
@@ -266,6 +279,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le sa | i/le savéa | i/le savarà | i/le savarìa | i/le sapia | i/le savésse |
 
 **Other forms:**
+
 - Infinitive: *saver*
 - Past participle: *savù* / *sapù*
 - Gerund: *savendo*
@@ -284,6 +298,7 @@ This appendix provides complete conjugation tables for the most important Veneti
 | lori/lore | i/le deve | i/le dovéa | i/le dovarà | i/le dovarìa | i/le deva | i/le dovésse |
 
 **Other forms:**
+
 - Infinitive: *dover*
 - Past participle: *dovù*
 - Gerund: *dovendo*
@@ -293,31 +308,43 @@ This appendix provides complete conjugation tables for the most important Veneti
 ## A.4 Compound Tense Formation
 
 ### Passato Prossimo
+
 Auxiliary (present) + past participle
+
 - *Go magnà.* (I have eaten.)
 - *Son ndà.* (I have gone.)
 
 ### Trapassato Prossimo
+
 Auxiliary (imperfect) + past participle
+
 - *Gavéa magnà.* (I had eaten.)
 - *Gèro ndà.* (I had gone.)
 
 ### Future Perfect
+
 Auxiliary (future) + past participle
+
 - *Gavarò magnà.* (I will have eaten.)
 - *Sarò ndà.* (I will have gone.)
 
 ### Past Conditional
+
 Auxiliary (conditional) + past participle
+
 - *Gavarìa magnà.* (I would have eaten.)
 - *Sarìa ndà.* (I would have gone.)
 
 ### Past Subjunctive
+
 Auxiliary (present subjunctive) + past participle
+
 - *che gabia magnà* (that I have eaten)
 - *che sia ndà* (that I have gone)
 
 ### Pluperfect Subjunctive
+
 Auxiliary (imperfect subjunctive) + past participle
+
 - *che gavésse magnà* (that I had eaten)
 - *che fusse ndà* (that I had gone)

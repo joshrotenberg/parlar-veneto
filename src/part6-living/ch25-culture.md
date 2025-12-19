@@ -25,11 +25,13 @@ The region comprises seven provinces, each with its own dialectal characteristic
 A crucial distinction for understanding Venetian culture: the Comune di Venezia encompasses both the famous island *centro storico* and the mainland *terraferma*.
 
 **Centro storico** (historic center):
+
 - The Venice of postcards and tourists
 - Population: ~50,000 (down from 175,000 post-WWII)
 - Declining residential population, rising tourism pressure
 
 **Terraferma** (mainland):
+
 - Mestre, Marghera, Carpenedo, Favaro Veneto, Zelarino, Chirignago, Campalto
 - Population: ~180,000
 - Where "regular people" live - hospitals, shopping centers, affordable housing
@@ -44,6 +46,7 @@ When Rumatera sings about *laorar* and *schei*, when Carlo e Giorgio make their 
 For over a thousand years, Venice was an independent republic - *La Serenissima* (The Most Serene Republic). At its height, it controlled trade routes across the Mediterranean and beyond, ruling territories from the Veneto mainland to Cyprus, Crete, and parts of Greece.
 
 Venetian was the language of this empire:
+
 - Diplomatic and commercial lingua franca of the Eastern Mediterranean
 - Language of administration across Venetian territories
 - Preserved in texts from the 13th century onward
@@ -55,6 +58,7 @@ The Republic's fall to Napoleon in 1797 ended political independence but not the
 From 1797 to 1866, the Veneto passed through French and Austrian rule before joining unified Italy. Italian became the official language, and Venetian was increasingly relegated to informal use.
 
 The 20th century brought:
+
 - World War I devastation along the Piave River
 - Fascist-era suppression of dialect use
 - Post-WWII industrialization and demographic shifts
@@ -63,6 +67,7 @@ The 20th century brought:
 ### Venice Today
 
 Modern Venice faces unique challenges:
+
 - Tourism overwhelming the historic center (30 million visitors annually)
 - Resident population decline ("Venice is dying")
 - *Acqua alta* (flooding) exacerbated by climate change
@@ -75,6 +80,7 @@ But the language persists, especially on the terraferma where daily life continu
 No institution is more central to Venetian social life than the bar. But understand: *bar* in Venetian connotes something different than the Italian *bar* (essentially a coffee shop).
 
 For Venetians, *al bar* evokes:
+
 - Morning *ombra* before work
 - Afternoon *spritz* with colleagues
 - Evening card games (*briscola*, *trionfetti*)
@@ -89,6 +95,7 @@ The *ombra* (literally "shadow") - a small glass of wine - is the basic unit of 
 ### The Bacaro
 
 The *bacaro* is Venice's answer to the tapas bar:
+
 - Simple, unpretentious atmosphere
 - *Cicchetti* displayed on the counter
 - Wine by the glass (*ombra*) or *spritz*
@@ -104,6 +111,7 @@ Venetian cuisine reflects the lagoon environment and the Republic's trading hist
 ### Signature Dishes
 
 **Seafood:**
+
 - *Baccalà mantecà* - creamed salt cod (despite Venice having no cod; it came via trade)
 - *Sarde in saor* - sardines in sweet-sour marinade with onions, pine nuts, raisins
 - *Sepe in nero* - cuttlefish in its own ink, with polenta
@@ -111,6 +119,7 @@ Venetian cuisine reflects the lagoon environment and the Republic's trading hist
 - *Schie* - tiny gray shrimp from the lagoon
 
 **From the mainland:**
+
 - *Risi e bisi* - rice and peas, traditionally for the Doge on St. Mark's Day
 - *Bigoi in salsa* - thick pasta with anchovy-onion sauce
 - *Fegato a ła venessiana* - liver with slowly cooked onions
@@ -119,6 +128,7 @@ Venetian cuisine reflects the lagoon environment and the Republic's trading hist
 ### Regional Products
 
 The Veneto leads Italy in DOP/IGP protected products:
+
 - Prosecco from Conegliano-Valdobbiadene
 - Amarone della Valpolicella
 - Asiago cheese
@@ -132,6 +142,7 @@ This economic success reinforces regional identity. The expression *chi semo* (w
 ### Carnevale
 
 Venice's carnival is world-famous, running from Epiphany to Shrove Tuesday. Traditional foods include:
+
 - *Frìtołe* - fried dough balls with raisins and pine nuts
 - *Galani* - fried pastry strips
 
@@ -154,6 +165,7 @@ First Sunday of September: historical boat parade and rowing races on the Grand 
 ### Pride and Identity
 
 For many Venetians, the language is a marker of authentic identity. Speaking Venetian signals:
+
 - Local belonging
 - Working-class solidarity
 - Cultural continuity
@@ -164,6 +176,7 @@ The social media debates about naming the 2021 dolphin "Nane" (Venetian) vs. "Mi
 ### Stigma and Register
 
 Venetian can still carry negative associations:
+
 - Lower education
 - Rural origins
 - Inappropriateness in formal contexts
@@ -183,6 +196,7 @@ The rise of social media has created new spaces for written Venetian, with young
 ### Music
 
 Venetian thrives in music:
+
 - **Rumatera**: Punk rock from the Venice province, documenting working-class terraferma life
 - **Herman Medrano**: Contemporary Venetian-language music
 - **Traditional songs**: *El paron de le barchete*, *La biondina in gondoeta*
@@ -196,6 +210,7 @@ Venetian thrives in music:
 ### Social Media
 
 Active accounts keeping the language visible:
+
 - @proverbiveneti: Daily proverbs
 - @venetosegreto: Vocabulary and culture
 - @padovastories: Regional news and identity
@@ -205,12 +220,14 @@ Active accounts keeping the language visible:
 Is Venetian a language or a dialect? Linguistically, the distinction is political rather than scientific ("a language is a dialect with an army and a navy").
 
 **Arguments for "language" status:**
+
 - Distinct from Italian, not a corruption of it
 - Own grammatical system, vocabulary, literary tradition
 - Mutual unintelligibility with many Italian dialects
 - Historical prestige as a language of trade and diplomacy
 
 **Current status:**
+
 - Not officially recognized by the Italian state
 - Regional law (Veneto Region) recognizes it as a language
 - UNESCO classifies it as a language (not a dialect)
@@ -235,6 +252,7 @@ The debate matters less than the reality: millions speak it, and it continues to
 ### Immersion
 
 The best resource is exposure:
+
 - Visit the Veneto and spend time in *bacari*, not just tourist sites
 - Listen to Venetian music (Rumatera, Herman Medrano)
 - Watch Venetian YouTube content

@@ -20,6 +20,7 @@ Both verbs are irregular - their forms must be memorized.
 | lore | *lore le xe* | *le xe* | *sono* |
 
 **Notes:**
+
 - 2sg has two forms: *te si* (more central) and *ti xe* (more Venetian)
 - 3sg and 3pl share the form *xe* - the clitic distinguishes them
 - *Xe* is pronounced /ze/ (with the voiced sibilant)
@@ -84,7 +85,8 @@ Both *gèra* forms and *era* forms are used, sometimes interchangeably.
 
 Venetian has two forms for "to have": *gavér* (with g-) and *aver* (without). Both are used; *gavér* is perhaps more distinctively Venetian, while *aver* is closer to Italian.
 
-### Present Indicative
+### Present Indicative 2
+
 
 | Person | Full Form | Short Form | Italian |
 |--------|-----------|------------|---------|
@@ -98,11 +100,13 @@ Venetian has two forms for "to have": *gavér* (with g-) and *aver* (without). B
 | lore | *lore le ga* | *le ga* | *hanno* |
 
 **Notes:**
+
 - 1sg, 2sg/3sg/3pl use the short forms *go*, *ga*
 - 1pl and 2pl show *gav-* stem in full: *gavemo*, *gavè*
 - The g- forms (*go*, *ga*, *gavemo*) are standard; some areas use *o*, *a*, *avemo*
 
-### Imperfect
+### Imperfect 2
+
 
 | Person | Form | Italian |
 |--------|------|---------|
@@ -113,7 +117,8 @@ Venetian has two forms for "to have": *gavér* (with g-) and *aver* (without). B
 | vu | *gavévi* / *avévi* | *avevate* |
 | lori/lore | *i/le gavéa* / *i/le avéa* | *avevano* |
 
-### Future
+### Future 2
+
 
 | Person | Form | Italian |
 |--------|------|---------|
@@ -124,7 +129,8 @@ Venetian has two forms for "to have": *gavér* (with g-) and *aver* (without). B
 | vu | *gavarè* | *avrete* |
 | lori/lore | *i/le gavarà* | *avranno* |
 
-### Conditional
+### Conditional 2
+
 
 | Person | Form | Italian |
 |--------|------|---------|
@@ -135,7 +141,8 @@ Venetian has two forms for "to have": *gavér* (with g-) and *aver* (without). B
 | vu | *gavarìsi* | *avreste* |
 | lori/lore | *i/le gavarìa* | *avrebbero* |
 
-### Present Subjunctive
+### Present Subjunctive 2
+
 
 | Person | Form | Italian |
 |--------|------|---------|
@@ -146,7 +153,8 @@ Venetian has two forms for "to have": *gavér* (with g-) and *aver* (without). B
 | vu | *che gavè* | *che abbiate* |
 | lori/lore | *che i gabia* | *che abbiano* |
 
-### Other Forms
+### Other Forms 2
+
 
 | Form | Venetian | Italian |
 |------|----------|---------|
@@ -159,21 +167,25 @@ Venetian has two forms for "to have": *gavér* (with g-) and *aver* (without). B
 ### *Èsser* as Main Verb
 
 **Identity:**
+
 - *Son veneto.* (I'm Venetian.)
 - *El xe me fradel.* (He's my brother.)
 - *Xe ela?* (Is it her?)
 
 **Description:**
+
 - *La casa la xe granda.* (The house is big.)
 - *I xe stanchi.* (They're tired.)
 - *El vin el xe bon.* (The wine is good.)
 
 **Location:**
+
 - *Dove te si?* (Where are you?)
 - *Son a casa.* (I'm at home.)
 - *I xe in piassa.* (They're in the square.)
 
 **Time/Date:**
+
 - *Che ora xela?* (What time is it?)
 - *Xe le tre.* (It's three o'clock.)
 - *Ancò xe luni.* (Today is Monday.)
@@ -181,15 +193,18 @@ Venetian has two forms for "to have": *gavér* (with g-) and *aver* (without). B
 ### *Gavér* as Main Verb
 
 **Possession:**
+
 - *Go na casa.* (I have a house.)
 - *Te ga fradéi?* (Do you have brothers?)
 - *No gavemo schei.* (We don't have money.)
 
 **Age:**
+
 - *Quanti ani te ga?* (How old are you?)
 - *Go trentasìnque ani.* (I'm 35 years old.)
 
 **Physical/emotional states:**
+
 - *Go fame.* (I'm hungry.)
 - *Go sé.* (I'm thirsty.)
 - *Go fredo.* (I'm cold.)
@@ -211,6 +226,7 @@ The construction *ghe xe* (there is/are) is extremely common:
 | *No ghe xe mal.* | *Non c'è male.* | Not bad. |
 
 **Question form:**
+
 - *Ghe xe-lo?* (Is there?)
 - *Ghe xe-li?* (Are there?)
 
@@ -221,6 +237,7 @@ The main function of auxiliaries is forming compound tenses, especially the *pas
 ### Choosing the Auxiliary
 
 Like Italian, Venetian uses:
+
 - ***Gavér*** with most transitive verbs (those that take a direct object)
 - ***Èsser*** with intransitive verbs of motion/change, reflexive verbs
 

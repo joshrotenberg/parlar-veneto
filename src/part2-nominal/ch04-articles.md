@@ -44,17 +44,20 @@ Before vowels, the singular articles typically elide (lose their vowel):
 | *la* | *l'* | *l'aqua* (the water) |
 
 Examples:
+
 - *l'amigo* (the friend, m.)
 - *l'ora* (the hour)
 - *l'ocio* (the eye)
 
 The plural forms *i* and *le* generally do not elide:
+
 - *i amighi* (the friends, m.)
 - *le ore* (the hours)
 
 ### Regional Variation
 
 In some areas, you may hear or see:
+
 - **'l** as a reduced form of *el*: *'l can* for *el can*
 - **ła** and **łe** with the evanescent L marked: *ła casa*, *łe case*
 
@@ -69,7 +72,8 @@ The indefinite article ("a, an") has two main forms:
 | **Masculine** | un |
 | **Feminine** | una |
 
-### Basic Usage
+### Basic Usage 2
+
 
 | Venetian | Italian | English |
 |----------|---------|---------|
@@ -78,14 +82,17 @@ The indefinite article ("a, an") has two main forms:
 | *un omo* | *un uomo* | a man |
 | *una dona* | *una donna* | a woman |
 
-### Elision
+### Elision 2
+
 
 The feminine *una* elides before vowels:
+
 - *un'ombra* (a glass of wine, lit. "a shadow")
 - *un'ora* (an hour)
 - *un'aqua* (a water)
 
 The masculine *un* does not change before vowels:
+
 - *un amigo* (a friend)
 - *un oco* (a goose)
 
@@ -106,12 +113,14 @@ To express "some" or "any" with a quantity sense, Venetian uses **de** + definit
 | **Feminine** | de la | de le |
 
 Examples:
+
 - *Vogio del vin.* (I want some wine.)
 - *Go comprà dei libri.* (I bought some books.)
 - *Ghe xe de la pasta.* (There's some pasta.)
 - *Go visto de le tose.* (I saw some girls.)
 
 In casual speech, the partitive is often omitted, especially in the plural:
+
 - *Vogio vin.* (I want wine.)
 - *Go comprà libri.* (I bought books.)
 
@@ -196,13 +205,16 @@ When definite articles follow common prepositions, they contract:
 Most article usage follows Italian patterns:
 
 **With possessives and family terms:**
+
 - *el me libro* (my book) - article used
 - *me mare* (my mother) - article often omitted with close family
 
 **With abstract nouns:**
+
 - *La vita xe bela.* (Life is beautiful.)
 
 **With languages:**
+
 - *El veneto xe na bela lengua.* (Venetian is a beautiful language.)
 
 ### With Names
@@ -213,6 +225,7 @@ A distinctive feature of Venetian (and northern Italian dialects generally) is u
 - *Go visto la Giulia.* (I saw Giulia.)
 
 This is not typically done with men's names:
+
 - *Marco xe rivà.* (Marco has arrived.)
 - *Go visto Bepi.* (I saw Bepi/Giuseppe.)
 
@@ -227,6 +240,7 @@ This usage is widespread in spoken Venetian and informal contexts, though it may
 | Indefinite | un | una |
 
 Key differences from Italian:
+
 - **el** instead of *il/lo/l'*
 - **i** instead of *i/gli*
 - Simpler system overall with fewer forms

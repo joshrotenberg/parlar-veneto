@@ -37,6 +37,7 @@ More commonly, Venetian inverts the clitic, moving it after the verb with a chan
 | *le* | *-le* |
 
 **Notes:**
+
 - First person (singular and plural) has no inversion: *Magno?* (Do I eat?)
 - The hyphen is sometimes omitted in writing: *Parlito?*, *Magnalo?*
 - The inverted clitic attaches directly to the verb
@@ -74,6 +75,7 @@ For negative questions, *no* precedes the inverted structure:
 | *Vien-la?* | *No vien-la?* |
 
 Examples:
+
 - *No parli-to veneto?* (Don't you speak Venetian?)
 - *No vien-la anca ela?* (Isn't she coming too?)
 
@@ -185,6 +187,7 @@ After conjunctions:
 ### Why This Matters
 
 *Che* insertion is one of the most reliable markers of Venetian speech. It persists even when:
+
 - Vocabulary has shifted toward Italian
 - Phonology has been Italianized
 - The speaker considers themselves to be speaking Italian
@@ -292,6 +295,7 @@ Indirect information questions use the question word, with or without *che*:
 ### *Che* Insertion
 
 This diagnostic feature inserts *che* after:
+
 - Question words: *quando che*, *dove che*, *come che*
 - Conjunctions: *fin che*, *da quando che*
 

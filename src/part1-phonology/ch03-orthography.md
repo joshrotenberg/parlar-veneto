@@ -11,6 +11,7 @@ Venetian uses the Latin alphabet with the following letters:
 **Standard letters:** a, b, c, d, e, f, g, h, i, j, l, m, n, o, p, q, r, s, t, u, v, x, z
 
 **Special letters:**
+
 - **ł** (L with stroke) - the evanescent L
 - **à, è, é, ì, ò, ó, ù** - vowels with accent marks
 
@@ -33,6 +34,7 @@ The letters **k**, **w**, and **y** appear only in foreign words.
 Accent marks serve two functions in Venetian: indicating stress and distinguishing vowel quality.
 
 **Grave accent (`)** marks open vowels and/or stress:
+
 - *è* - open e /ɛ/
 - *ò* - open o /ɔ/
 - *à*, *ì*, *ù* - stress only (these vowels have no open/closed distinction)
@@ -97,14 +99,17 @@ The letter **x** represents the voiced sibilant /z/ (as in English "zero"), one 
 ### S and Z
 
 The letter **s** represents:
+
 - Voiceless /s/ at the beginning of words: *sałe* (salt)
 - Often voiced /z/ between vowels: *casa* [ˈkaza] (house)
 
 The letter **z** represents affricates:
+
 - Voiceless /ts/: *forsa* [ˈfortsa] (strength) - sometimes spelled *rz*
 - Voiced /dz/: *mezo* [ˈmɛdzo] (half)
 
 The distinction between s, x, and z can be confusing. In general:
+
 - **x** = always voiced /z/
 - **s** = voiceless /s/, or voiced /z/ between vowels
 - **z** = affricate /ts/ or /dz/
@@ -168,6 +173,7 @@ It also appears in the prefix **s'** before c + front vowel, marking the /stʃ/ 
 ## 3.5 Word Division
 
 Venetian word division follows Italian conventions:
+
 - Divide between consonants: *par-lar* (to speak)
 - Keep consonant clusters together: *sem-pre* (always)
 - Divide between vowels in hiatus: *pa-u-ra* (fear)
@@ -175,6 +181,7 @@ Venetian word division follows Italian conventions:
 ## 3.6 Capitalization
 
 As in Italian:
+
 - Sentence beginnings
 - Proper nouns (names, places)
 - *Not* days of the week, months, or languages (unless sentence-initial)
@@ -182,6 +189,7 @@ As in Italian:
 ## 3.7 Punctuation
 
 Venetian uses standard Italian/European punctuation:
+
 - Period, comma, semicolon, colon
 - Question mark and exclamation point
 - Quotation marks: «...» (guillemets) or "..."

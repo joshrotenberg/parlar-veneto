@@ -14,6 +14,7 @@ This appendix provides at-a-glance summaries of key Venetian grammar points. Kee
 | **ś/sc** | /stʃ/ before e/i | *sciao* (bye) |
 
 **Key differences from Italian:**
+
 - No double consonants: *tuto* not *tutto*
 - Final vowels often dropped: *pan* not *pane*
 - Intervocalic v often drops: *laorar* not *lavorare*
@@ -49,6 +50,7 @@ Before vowels: *l'* for both genders singular
 | 3pl f. | *lore/ełe* | *le* | **Required** |
 
 **Key rule:** 2nd and 3rd person ALWAYS need the clitic before the verb.
+
 - *Ti **te** parli.* (You speak.)
 - *Lu **el** parla.* (He speaks.)
 
@@ -151,6 +153,7 @@ Before vowels: *l'* for both genders singular
 | Emphatic | *no* + verb + *miga* | *No go miga capìo.* |
 
 **Negative words:**
+
 - *gnente* (nothing)
 - *nissun* (nobody)
 - *mai* (never)
@@ -159,7 +162,9 @@ Before vowels: *l'* for both genders singular
 ## B.8 Questions
 
 ### Yes/No Questions
+
 Invert verb and clitic:
+
 - Statement: *Ti te magni.* → Question: *Magni-to?*
 - Statement: *El magna.* → Question: *Magna-lo?*
 
@@ -190,11 +195,29 @@ Invert verb and clitic:
 | *sensa* | *senza* | without |
 
 **Note:** Venetian uses *in* where Italian uses *a/al*:
+
 - *Vago in bar.* (I'm going to the bar.)
 
 ## B.10 Essential Expressions
 
 ### Greetings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Venetian | English |
 |----------|---------|
 | *Ciao* | Hi / Bye |
@@ -202,6 +225,24 @@ Invert verb and clitic:
 | *Ben, grassie.* | Fine, thanks. |
 
 ### Everyday
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Venetian | English |
 |----------|---------|
 | *Sì / No* | Yes / No |
@@ -211,6 +252,25 @@ Invert verb and clitic:
 | *Scusa* | Sorry (informal) |
 
 ### Reactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Venetian | English |
 |----------|---------|
 | *Varda!* | Look! |
@@ -221,6 +281,26 @@ Invert verb and clitic:
 | *Daghe!* | Go for it! |
 
 ### At the Bar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Venetian | English |
 |----------|---------|
 | *Un'ombra, par piaser.* | A glass of wine, please. |
@@ -246,6 +326,28 @@ Invert verb and clitic:
 ## B.12 Days and Months
 
 ### Days
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Venetian | English |
 |----------|---------|
 | *luni* | Monday |
@@ -257,6 +359,29 @@ Invert verb and clitic:
 | *doménega* | Sunday |
 
 ### Months
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Venetian | English |
 |----------|---------|
 | *genaro* | January |

@@ -1,0 +1,23 @@
+enabled-categories = []
+disabled-categories = []
+enabled-rules = []
+disabled-rules = [
+  "MD013",  # Line length - too noisy for prose
+  "MD012",  # Multiple blank lines
+  "MD032",  # Blank line before lists - too strict
+  "MD036",  # Emphasis instead of heading - we use emphasis for Venetian text
+  "MD037",  # Spaces inside emphasis - false positives on Venetian text
+  "MD047",  # Trailing newlines
+  "MD052",  # Reference links - false positives on IPA notation
+  "MD058",  # Blank line before tables - too strict
+  "CONTENT003",  # Short chapters - we have intro READMEs
+  "CONTENT004",  # Heading capitalization - Venetian words don't follow English rules
+  "CONTENT005",  # Subheading introduction - too strict for reference material
+  "CONTENT011",  # Future tense - we're teaching grammar, future tense is fine
+]
+deprecated-warning = 'warn'
+markdownlint-compatible = false
+auto-fix = true
+fail-on-warnings = false
+fail-on-errors = true
+malformed-markdown = 'warn'

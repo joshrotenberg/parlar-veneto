@@ -27,6 +27,7 @@ Unlike some northern Italian dialects, Venetian generally preserves final vowels
 - **Central Venetian (Padovano)**: drops e and o only after n
 
 Compare:
+
 - *pan* (bread) - final vowel lost after n
 - *vino* (wine) - final vowel preserved
 - *caval* or *cavało* (horse) - varies by region
@@ -36,12 +37,14 @@ Compare:
 Venetian has both rising and falling diphthongs:
 
 **Falling diphthongs** (most common):
+
 - *ai*: *mai* (never)
 - *ei*: *quei* (those)
 - *oi*: *poi* (then)
 - *au*: *paura* (fear)
 
 **Rising diphthongs**:
+
 - *ia*: *bianco* (white)
 - *ie*: *pien* (full)
 - *io*: *fior* (flower)
@@ -80,6 +83,7 @@ Note that Venetian lacks the rising diphthongs that developed in Italian from La
 The most distinctive Venetian consonant is the "evanescent L," written **ł** (L with a stroke). This sound varies considerably by region and speaker:
 
 **In central Venetian (Venice, Padua):**
+
 - Before back vowels (a, o, u): pronounced as a weak glide, similar to /w/ or a non-syllabic /e̯/
 - Before front vowels (e, i): often silent or very weak
 
@@ -94,6 +98,7 @@ The most distinctive Venetian consonant is the "evanescent L," written **ł** (L
 | *pełe* | [ˈpɛe] | skin |
 
 **Regional variation:**
+
 - Some rural speakers pronounce ł as a full [l]
 - In some areas, it becomes a clear [w] sound
 - Urban speakers often reduce it to near-silence
@@ -149,6 +154,7 @@ Venetian has palatal consonants similar to Italian:
 | palatal nasal | /ɲ/ | gn | *ogni* (every), *bagno* (bath) |
 
 Note that in some words, Venetian uses **j** where Italian uses **gli**:
+
 - Italian *figlio* → Venetian *fijo*
 - Italian *meglio* → Venetian *mejo*
 
@@ -175,6 +181,7 @@ This is one of the most immediately noticeable differences between Venetian and 
 ### Voicing Patterns
 
 Venetian tends to voice intervocalic consonants more than Italian, particularly:
+
 - s between vowels: *casa* [ˈkaza] vs. Italian [ˈkasa]
 - This is reflected in the spelling with **x** in some words
 

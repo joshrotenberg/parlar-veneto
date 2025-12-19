@@ -77,6 +77,12 @@ For regular verbs, remove the infinitive ending to get the stem:
 A crucial difference from Italian: Venetian verb endings often don't distinguish person as clearly as Italian ones do. Compare:
 
 **Italian *parlare* (present):**
+
+
+
+
+
+
 | Person | Form | Ending is unique? |
 |--------|------|-------------------|
 | io | *parlo* | yes |
@@ -87,6 +93,13 @@ A crucial difference from Italian: Venetian verb endings often don't distinguish
 | loro | *parlano* | yes |
 
 **Venetian *parlar* (present):**
+
+
+
+
+
+
+
 | Person | Form | Ending is unique? |
 |--------|------|-------------------|
 | mi | *parlo* | yes |
@@ -113,7 +126,8 @@ This is the key insight for Venetian verbs: **clitics and endings work together*
 | 3pl m. | *i* | *parla* | *I parla.* |
 | 3pl f. | *le* | *parla* | *Le parla.* |
 
-*The 2pl clitic *ve* exists in some areas but is often omitted.
+*The 2pl clitic*ve* exists in some areas but is often omitted.
+
 
 The clitic tells you **who**; the ending tells you **what tense/mood**. Neither is complete without the other.
 

@@ -9,11 +9,13 @@ Every Venetian noun is either masculine or feminine. There is no neuter gender (
 ### Recognizing Gender
 
 **Masculine nouns** typically end in:
+
 - **-o**: *el libro* (the book), *el taolo* (the table), *el fogo* (the fire)
 - **-e**: *el pare* (the father), *el nome* (the name)
 - Consonant: *el pan* (the bread), *el vin* (the wine), *el can* (the dog)
 
 **Feminine nouns** typically end in:
+
 - **-a**: *la casa* (the house), *la dona* (the woman), *la aqua* (the water)
 - **-e**: *la mare* (the mother), *la nose* (the walnut)
 - **-ion/-sion**: *la nasion* (the nation), *la passion* (the passion)
@@ -21,6 +23,7 @@ Every Venetian noun is either masculine or feminine. There is no neuter gender (
 ### Gender from Italian
 
 Gender usually matches Italian:
+
 - Italian *il libro* (m.) → Venetian *el libro* (m.)
 - Italian *la casa* (f.) → Venetian *la casa* (f.)
 
@@ -48,6 +51,9 @@ For people and animals, grammatical gender typically matches natural gender:
 | *el can* | *la cagna* | male dog / female dog |
 
 Some nouns use different roots for male/female:
+
+
+
 | Masculine | Feminine | English |
 |-----------|----------|---------|
 | *el omo* | *la dona* | man / woman |
@@ -107,10 +113,12 @@ To preserve pronunciation, some plurals require spelling changes:
 Many Venetian nouns end in consonants (unlike Italian). These often:
 
 **Remain unchanged in the plural** (distinguished by article):
+
 - *el pan* → *i pan* (breads)
 - *el vin* → *i vin* (wines)
 
 **Or add -i**:
+
 - *el can* → *i cani* (dogs)
 - *el fiol* → *i fioi* (sons)
 
@@ -130,6 +138,7 @@ Some common nouns have irregular plurals:
 | *l'ovo* | *i ovi* / *le ove* | egg(s) |
 
 Some body parts preserve Latin neuter plurals in -a (now treated as feminine):
+
 - *el braso* (m. sg.) → *le brasa* (f. pl.) - arms
 - *el deo* (m. sg.) → *le dea* (f. pl.) - fingers
 
@@ -142,19 +151,23 @@ Like Italian, Venetian uses suffixes to modify noun meaning:
 ### Diminutives (smallness, affection)
 
 **-eto/-eta**:
+
 - *el toso* → *el toseto* (little boy)
 - *la tosa* → *la toseta* (little girl)
 - *el can* → *el caneto* (little dog, puppy)
 
 **-in/-ina**:
+
 - *la casa* → *la casina* (little house)
 
 **-eo/-ea**:
+
 - *el fradel* → *el fradeo* (little brother)
 
 ### Augmentatives (largeness, intensity)
 
 **-on/-ona**:
+
 - *el libro* → *el libron* (big book)
 - *la casa* → *la casona* (big house)
 - *el omo* → *l'omon* (big man)
@@ -162,6 +175,7 @@ Like Italian, Venetian uses suffixes to modify noun meaning:
 ### Pejorative
 
 **-aso/-asa** (often negative connotation):
+
 - *el tempo* → *el tempaso* (lousy weather)
 
 ## 5.4 Compound Nouns
@@ -169,13 +183,16 @@ Like Italian, Venetian uses suffixes to modify noun meaning:
 Venetian forms compound nouns similarly to Italian:
 
 **Verb + noun:**
+
 - *el portamonede* (wallet, lit. "carry-coins")
 - *el scoassabanchi* (school desk - from *scoassar*, to shake)
 
 **Noun + noun:**
+
 - *el capofameja* (head of family)
 
 **Noun + adjective:**
+
 - *la teracòta* (terracotta)
 
 ## 5.5 Nouns from Other Parts of Speech
@@ -183,6 +200,7 @@ Venetian forms compound nouns similarly to Italian:
 ### Infinitives as Nouns
 
 Like Italian, verbal infinitives can function as nouns (always masculine):
+
 - *El magnar* xe pronto. (The food / eating is ready.)
 - *El béver* (drinking, the drink)
 - *El saver* (knowledge)
@@ -190,6 +208,7 @@ Like Italian, verbal infinitives can function as nouns (always masculine):
 ### Adjectives as Nouns
 
 Adjectives can be used as nouns with an article:
+
 - *el vecio* (the old man)
 - *la bela* (the beautiful one, the beauty)
 - *i giovani* (the young people)
@@ -199,21 +218,25 @@ Adjectives can be used as nouns with an article:
 Some semantic groups tend toward particular endings:
 
 **Trees (often masculine -o or -er):**
+
 - *el perer* (pear tree)
 - *el pomèr* (apple tree)
 - *el figèr* (fig tree)
 
 **Fruits (often feminine -a):**
+
 - *la pera* (pear)
 - *la poma* (apple)
 - *la figa* (fig)
 
 **Occupations -or/-ora (like Italian -ore/-rice):**
+
 - *el laorador* / *la laoradora* (worker)
 - *el cantador* / *la cantadora* (singer)
 - *el pescador* / *la pescadora* (fisherman/woman)
 
 **Places -eria:**
+
 - *la libreria* (bookshop)
 - *la panificio* / *la paneteria* (bakery)
 - *la osteria* (tavern, wine bar)
@@ -230,6 +253,7 @@ Some semantic groups tend toward particular endings:
 | Augmentative | -on/-ona |
 
 Key differences from Italian:
+
 - More nouns ending in consonants (*pan*, *vin*, *can*)
 - Plural often marked by article alone when noun ends in consonant
 - Some Latin neuter plurals preserved (*le brasa*, *le dea*)
