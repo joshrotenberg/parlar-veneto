@@ -7,15 +7,16 @@ This appendix provides at-a-glance summaries of key Venetian grammar points. Kee
 | Symbol | Sound | Example |
 |--------|-------|---------|
 | **x** | /z/ (voiced s) | *xe* /ze/ (is) |
-| **ł** | velarized l or /w/ | *beło* (beautiful) |
-| **s** | always /s/ (unvoiced) | *casa* (house) |
+| **ł** | weakened l, glide, or silence | *beło* (beautiful) |
+| **s** | /s/ or /z/, depending on context | *sałe*, *casa* |
 | **z** | /ts/ or /dz/ | *mezo* (half) |
 | **gn** | /ɲ/ (like Italian) | *gnente* (nothing) |
-| **ś/sc** | /stʃ/ before e/i | *sciao* (bye) |
+| **s-c**, **s'c** | /stʃ/ | *s-ciào* (slave; source of *ciao*) |
 
 **Key differences from Italian:**
 
-- No double consonants: *tuto* not *tutto*
+- No phonemic long consonants: *tuto* not *tutto*; **ss** may mark
+  intervocalic /s/ in forms such as *cossa*
 - Final vowels often dropped: *pan* not *pane*
 - Intervocalic v often drops: *laorar* not *lavorare*
 
@@ -202,22 +203,6 @@ Invert verb and clitic:
 
 ### Greetings
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Venetian | English |
 |----------|---------|
 | *Ciao* | Hi / Bye |
@@ -225,23 +210,6 @@ Invert verb and clitic:
 | *Ben, grassie.* | Fine, thanks. |
 
 ### Everyday
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 | Venetian | English |
 |----------|---------|
@@ -252,24 +220,6 @@ Invert verb and clitic:
 | *Scusa* | Sorry (informal) |
 
 ### Reactions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 | Venetian | English |
 |----------|---------|
@@ -282,25 +232,6 @@ Invert verb and clitic:
 
 ### At the Bar
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Venetian | English |
 |----------|---------|
 | *Un'ombra, par piaser.* | A glass of wine, please. |
@@ -312,41 +243,20 @@ Invert verb and clitic:
 
 | # | Venetian | # | Venetian |
 |---|----------|---|----------|
-| 1 | *un* | 11 | *undese* |
-| 2 | *do* | 12 | *dódese* |
-| 3 | *tre* | 13 | *trédese* |
+| 1 | *un* | 11 | *ùndese* |
+| 2 | *dó* | 12 | *dódese* |
+| 3 | *trè* | 13 | *trèdese* |
 | 4 | *quatro* | 14 | *quatòrdese* |
 | 5 | *sinque* | 15 | *quìndese* |
-| 6 | *sie* | 16 | *sédese* |
-| 7 | *sete* | 17 | *disesète* |
-| 8 | *oto* | 18 | *disdoto* |
-| 9 | *nove* | 19 | *disnove* |
-| 10 | *diese* | 20 | *vinti* |
+| 6 | *sìe* | 16 | *sédese* |
+| 7 | *sète* | 17 | *dissète* |
+| 8 | *òto* | 18 | *disdòto* |
+| 9 | *nóve* | 19 | *disnóve* |
+| 10 | *diése* | 20 | *vinti* |
 
 ## B.12 Days and Months
 
 ### Days
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 | Venetian | English |
 |----------|---------|
@@ -360,34 +270,12 @@ Invert verb and clitic:
 
 ### Months
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Venetian | English |
 |----------|---------|
 | *genaro* | January |
 | *febraro* | February |
 | *marso* | March |
-| *apriłe* | April |
+| *aprìle* / *aprìl* | April |
 | *majo* | May |
 | *giugno* | June |
 | *lujo* | July |
@@ -406,5 +294,5 @@ Invert verb and clitic:
 | "Also" | *anche* | *anca* |
 | Subject clitics | Optional | Required (2nd/3rd) |
 | "At the bar" | *al bar* | *in bar* |
-| Double consonants | Yes | No |
+| Phonemic consonant length | Yes | No |
 | *gi-* sound | /dʒ/ | /z/ (*x*) |

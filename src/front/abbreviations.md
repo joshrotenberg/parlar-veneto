@@ -49,20 +49,18 @@ Throughout this book, sources are cited using the following abbreviations. See [
 
 | Symbol | Sound | Example |
 |--------|-------|---------|
-| /dz/ | voiced affricate | *xo* (I am) |
-| /ts/ | voiceless affricate | *forsa* (strength) |
-| /ʎ/ | palatal lateral | *fijo* (son) |
+| /z/ | voiced alveolar fricative | *xe* (is) |
+| /j/ | palatal glide, like English *y* | *fijo* (son) |
 | /ɲ/ | palatal nasal | *ogni* (every) |
-| /ł/ | velarized L | *beło* (beautiful) |
+| /ł/ | conventional symbol for the evanescent L | *beło* (beautiful) |
 
 ## Orthographic Conventions
 
 | Symbol | Represents | Notes |
 |--------|------------|-------|
-| ł | "evanescent L" | Velarized, often silent or /w/-like |
+| ł | "evanescent L" | Weakened, vocalized, or absent, depending on variety |
 | x | voiced /z/ | As in *xe* (is), *xente* (people) |
-| s- | voiceless /s/ | Word-initial before vowel |
-| -s- | voiced /z/ | Intervocalic |
+| s | /s/ or /z/ | Value depends on position, word, and variety |
 | ' | elision | *ła* > *l'aqua* |
 
 ## Register Markers

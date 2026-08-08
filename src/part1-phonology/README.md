@@ -1,6 +1,6 @@
 # Part I: Phonology and Orthography
 
-The sounds of Venetian immediately distinguish it from Italian. Where Italian has *bello*, Venetian has *beło* with its distinctive velarized L. Where Italian doubles consonants in *fatto*, Venetian simplifies to *fato*. Where Italian preserves intervocalic /v/ in *lavora*, Venetian drops it entirely: *laora*.
+The sounds of Venetian immediately distinguish it from Italian. Where Italian has *bello*, Venetian has *beło* with its distinctive evanescent L. Where Italian doubles consonants in *fatto*, Venetian simplifies to *fato*. Where Italian preserves intervocalic /v/ in *lavora*, Venetian drops it entirely: *laora*.
 
 These are not random variations. They reflect systematic sound patterns that have developed over centuries as Venetian evolved from Latin along its own path, distinct from the Tuscan dialect that became standard Italian.
 

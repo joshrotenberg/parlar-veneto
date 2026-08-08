@@ -6,7 +6,9 @@ This appendix provides full citations for all sources referenced throughout this
 
 ### Grammars
 
-**BEL** - Belloni, Silvano. *Grammatica Veneta*. 2nd ed., revised and corrected. Padova: Esedra Editrice, 1991.
+**BEL** - Belloni, Silvano. *Grammatica Veneta*. 2nd ed., revised and
+corrected. Padova: Esedra Editrice, 2009. The first edition and the author's
+original preface date to 1991; the note to the revised edition is dated 2006.
 
 The most comprehensive modern grammar of Venetian, based primarily on the Paduan dialect. Belloni's work demonstrates that Venetian has its own organic grammatical structure analogous to standard Italian. Available as a PDF on [linguaveneta.net](http://www.linguaveneta.net/grammatica-veneta/). This grammar serves as the primary scholarly reference for grammatical descriptions throughout this book.
 
@@ -14,11 +16,22 @@ The most comprehensive modern grammar of Venetian, based primarily on the Paduan
 
 A general grammatical manual written in Venetian, offering a native-language perspective on grammatical structures.
 
+**GVU** - Giunta Regionale del Veneto. *Manuale di Grafia Veneta Unitaria*.
+Venice: Regione del Veneto, 1995. A navigable electronic edition and PDF are
+available through [El Galepin](https://www.elgalepin.org/gvu/).
+
+The manual documents a broad set of traditional spelling symbols for different
+Venetian varieties. It is a reference for the orthographic choices in this
+book, not evidence that one spelling has displaced all others.
+
 ### Dictionaries
 
 **GAL** - *El Galepin: Dizionario Veneto*. Online dictionary. [elgalepin.com](https://www.elgalepin.com/).
 
-The primary online Venetian dictionary, containing approximately 37,000 Venetian entries with translations to Italian and English. The name *galepin* is the Venetian word for "dictionary." An essential resource for vocabulary verification and usage examples.
+An online Venetian dictionary with Italian and English translations. The name
+*galepin* is the Venetian word for "dictionary." It is especially useful for
+checking variants, but dictionary forms should still be matched to region and
+context.
 
 **BOE** - Boerio, Giuseppe. *Dizionario del dialetto veneziano*. 2nd ed. Venice: Tipografia di G. Cecchini, 1856. Available on [Internet Archive](https://archive.org/details/bub*gb*Z6TGQeb-Xd4C) and [linguaveneta.net](http://www.linguaveneta.net/dizionario-del-dialetto-veneziano-di-giuseppe-boerio/).
 
@@ -41,13 +54,16 @@ A bidirectional dictionary useful for Italian speakers learning Venetian.
 
 Song lyrics provide authentic contemporary usage, particularly for informal registers, youth language, and cultural vocabulary. Songs analyzed include "Made in Veneto," "Na Seen," and "Hey!" Primary source for working-class terraferma Venetian.
 
-**HM** - Herman Medrano. Venetian-language musician and Rumatera frontman. Instagram: [@hermanmedrano](https://www.instagram.com/hermanmedrano/).
+**HM** - Herman Medrano. Padua-based Venetian-language rapper and songwriter.
+Instagram: [@hermanmedrano](https://www.instagram.com/hermanmedrano/).
 
 Contemporary musical source for modern Venetian usage and cultural context. Notable for cross-genre collaborations including work with Ticinese artists.
 
 **Scooltame** - DJ specializing in exclusively Venetian-language music sets. Useful for discovering other Venetian-language artists.
 
-**RFC** - RFC (Ritieniti Fortemente Coinvolto). Ska-punk band from Caserta with 22+ years of activity. Their collaboration with Rumatera on "Festa" marked their first use of dialect, creating a Campanian-Venetian linguistic mix that demonstrates cross-regional solidarity through shared working-class punk identity.
+**RFC** - RFC (Ritieniti Fortemente Coinvolto). Ska-punk band founded in the
+province of Caserta in 1999. Their song "Festa" features Rumatera and Gino
+Fastidio, mixing Campanian and Venetian voices.
 
 **...Piace?** - Ticinese punk folk band. Collaborated with Rumatera on "Hey!" providing comparison material for Swiss Italian dialect alongside Venetian.
 
@@ -107,14 +123,20 @@ Scholarly treatment of Venetian within the broader context of Romance linguistic
 
 ### Linguaveneta.net
 
-[linguaveneta.net](http://www.linguaveneta.net/) - Official site of the Consiglio Regionale del Veneto for Venetian language resources.
+[linguaveneta.net](http://www.linguaveneta.net/) - A Venetian-language resource
+portal and archive.
 
-This portal serves as the central hub for Venetian language materials, hosting:
+Materials linked or mirrored there have included:
 
 - Belloni's *Grammatica Veneta* (PDF)
 - Boerio's historical dictionary (PDF)
 - Multiple other dictionaries and grammatical resources
-- The *El Galepin* translator interface
+- Links to dictionaries and other language resources
+
+For the regional legal framework, consult the Consiglio Regionale del Veneto's
+[Legge regionale 13 aprile 2007, n. 8](https://www.consiglioveneto.it/web/crv/dettaglio-legge?anno=2007&catStruttura=LR&numero=8&tab=storico),
+which defines the protected linguistic heritage as the historically used local
+varieties and provides for expert work on shared orthographic guidance.
 
 ### Wikipedia
 
@@ -149,4 +171,7 @@ For learners seeking additional resources:
 
 Venetian encompasses several regional varieties: Veneziano (Venice), Padovano (Padua), Trevigiano (Treviso), Vicentino (Vicenza), Veronese (Verona), and others. This grammar primarily follows the conventions of central Venetian (Padovano-Vicentino-Polesano), which covers the most extensive and populous territory of the region, while noting significant variations where relevant.
 
-The orthographic conventions used in this book follow those established by linguaveneta.net and commonly used in contemporary Venetian writing.
+The learning orthography used in this book draws on the sources above and on
+conventions documented in the *Manuale di Grafia Veneta Unitaria*. It is used
+consistently for teaching, but it is not presented as an official or universally
+accepted standard.

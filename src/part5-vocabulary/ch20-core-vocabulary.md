@@ -236,21 +236,84 @@ The word *mona* is quintessentially Venetian. Its primary meaning is vulgar (fem
 
 ## 20.5 Numbers
 
+### Cardinal Numbers 1-20
+
 | Number | Venetian | Italian |
 |--------|----------|---------|
-| 1 | *un* | *uno* |
-| 2 | *do* / *due* | *due* |
-| 3 | *tre* | *tre* |
+| 1 | *un* / *uno* | *uno* |
+| 2 | *dó* / *du* / *doi* | *due* |
+| 3 | *trè* | *tre* |
 | 4 | *quatro* | *quattro* |
 | 5 | *sinque* | *cinque* |
-| 6 | *sie* / *sié* | *sei* |
-| 7 | *sete* | *sette* |
-| 8 | *oto* | *otto* |
-| 9 | *nove* | *nove* |
-| 10 | *diese* | *dieci* |
+| 6 | *sìe* / *siè* | *sei* |
+| 7 | *sète* | *sette* |
+| 8 | *òto* | *otto* |
+| 9 | *nóve* | *nove* |
+| 10 | *diése* | *dieci* |
+| 11 | *ùndese* | *undici* |
+| 12 | *dódese* | *dodici* |
+| 13 | *trèdese* | *tredici* |
+| 14 | *quatórdese* | *quattordici* |
+| 15 | *quìndese* | *quindici* |
+| 16 | *sédese* | *sedici* |
+| 17 | *dissète* | *diciassette* |
+| 18 | *disdòto* | *diciotto* |
+| 19 | *disnóve* | *diciannove* |
 | 20 | *vinti* | *venti* |
-| 100 | *sento* | *cento* |
+
+These are the Padovano-based forms documented by Belloni (BEL). Other varieties
+and spelling systems have alternatives; El Galepin, for example, also records
+*dixisète* for 17. Notice the shortened *dis-* forms in 17-19.
+
+### Tens and Larger Numbers
+
+| Number | Venetian | Italian |
+|--------|----------|---------|
+| 21 | *vintiùn* | *ventuno* |
+| 22 | *vintidó* | *ventidue* |
+| 30 | *trenta* | *trenta* |
+| 40 | *quaranta* | *quaranta* |
+| 50 | *sinquanta* | *cinquanta* |
+| 60 | *sessanta* | *sessanta* |
+| 70 | *setanta* | *settanta* |
+| 80 | *otanta* | *ottanta* |
+| 90 | *novanta* | *novanta* |
+| 100 | *sénto* | *cento* |
+| 200 | *dosento* | *duecento* |
 | 1000 | *mile* | *mille* |
+| 2000 | *dómile* / *domìla* | *duemila* |
+
+*Setanta* and *otanta* show the simplification of Italian geminates.
+*Sinquanta* instead shows a consonant correspondence, not degemination. The
+**ss** of *sessanta* marks voiceless /s/ in the spelling used by Belloni; it is
+not a long consonant.
+
+### Ordinal Numbers
+
+| Ordinal | Venetian | Italian |
+|---------|----------|---------|
+| 1st | *primo* | *primo* |
+| 2nd | *secondo* | *secondo* |
+| 3rd | *terso* | *terzo* |
+| 4th | *quarto* | *quarto* |
+| 5th | *quinto* | *quinto* |
+| 6th | *sesto* | *sesto* |
+| 7th | *sètimo* | *settimo* |
+| 8th | *otavo* | *ottavo* |
+| 9th | *nòno* | *nono* |
+| 10th | *dècimo* | *decimo* |
+
+Ordinals agree in gender and number: *la prima volta* (the first time), *i primi ani* (the first years).
+
+### Useful Number Expressions
+
+- *un paro de* - a couple of, a pair of
+- *na quarantina* - about forty
+- *un sentenaro* - about a hundred
+- *un miaro*; plural *mieri* / *miera* - a thousand; thousands
+- *mèso* - half (*mèso litro* - half a liter)
+- *un quarto* - a quarter
+- *el dopio* - double
 
 ## 20.6 Time and Days
 
@@ -277,11 +340,73 @@ The word *mona* is quintessentially Venetian. Its primary meaning is vulgar (fem
 | *marti* | *martedì* | Tuesday |
 | *mercori* | *mercoledì* | Wednesday |
 | *xòbia* | *giovedì* | Thursday |
-| *venare* | *venerdì* | Friday |
+| *venare* / *vènere* | *venerdì* | Friday |
 | *sabo* | *sabato* | Saturday |
 | *doménega* | *domenica* | Sunday |
 
 Note *xòbia* (Thursday) - this comes from Latin *Jovis* (of Jupiter) via a different path than Italian *giovedì*.
+
+### Months of the Year
+
+| Venetian | Italian | English |
+|----------|---------|---------|
+| *genaro* | *gennaio* | January |
+| *febraro* | *febbraio* | February |
+| *marso* | *marzo* | March |
+| *aprile* | *aprile* | April |
+| *majo* / *magio* | *maggio* | May |
+| *giugno* | *giugno* | June |
+| *lujo* / *lugio* | *luglio* | July |
+| *agosto* | *agosto* | August |
+| *setenbre* | *settembre* | September |
+| *otobre* | *ottobre* | October |
+| *novenbre* | *novembre* | November |
+| *disenbre* | *dicembre* | December |
+
+Note the degemination in *febraro*, *setenbre*, *otobre*, and the /ʎ/ → /j/ shift in *lujo* and *majo*.
+
+### Seasons
+
+| Venetian | Italian | English |
+|----------|---------|---------|
+| *primavera* | *primavera* | spring |
+| *istà* / *està* | *estate* | summer |
+| *autuno* | *autunno* | autumn |
+| *inverno* | *inverno* | winter |
+
+### Telling Time
+
+| Venetian | Italian | English |
+|----------|---------|---------|
+| *Che ora xe?* | *Che ora è?* | What time is it? |
+| *Xe l'una.* | *È l'una.* | It's one o'clock. |
+| *Xe le do.* | *Sono le due.* | It's two o'clock. |
+| *Xe le tre e mezo.* | *Sono le tre e mezzo.* | It's 3:30. |
+| *Xe le quatro e un quarto.* | *Sono le quattro e un quarto.* | It's 4:15. |
+| *Xe le sinque manco un quarto.* | *Sono le cinque meno un quarto.* | It's 4:45. |
+| *Xe mezodì.* | *È mezzogiorno.* | It's noon. |
+| *Xe mezanote.* | *È mezzanotte.* | It's midnight. |
+
+### Time Expressions
+
+| Venetian | Italian | English |
+|----------|---------|---------|
+| *sta matina* | *stamattina* | this morning |
+| *sta sera* | *stasera* | this evening |
+| *stanote* | *stanotte* | tonight |
+| *l'altro ieri* | *l'altro ieri* | the day before yesterday |
+| *doman l'altro* | *dopodomani* | the day after tomorrow |
+| *la setimana pasà* | *la settimana scorsa* | last week |
+| *la setimana che vien* | *la settimana prossima* | next week |
+| *el mese pasà* | *il mese scorso* | last month |
+| *l'ano pasà* | *l'anno scorso* | last year |
+| *fra poco* | *fra poco* | soon |
+| *subito* | *subito* | immediately |
+| *tardi* | *tardi* | late |
+| *presto* | *presto* | early, soon |
+| *a la matina* | *di mattina* | in the morning |
+| *de sera* | *di sera* | in the evening |
+| *de note* | *di notte* | at night |
 
 ## 20.7 Weather
 

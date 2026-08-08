@@ -1,24 +1,31 @@
 # Map of the Veneto
 
-![Map of the Veneto region showing its seven provinces](../images/veneto-map.png)
+![Administrative map highlighting the seven provinces of the Veneto](../images/veneto-map.png)
 
 ## The Veneto Region
 
-The Veneto (*Vèneto* in Venetian) is a region in northeastern Italy, bordered by the Alps to the north, the Adriatic Sea to the east, and the Po River valley to the south. It encompasses seven provinces, each with its own dialectal character.
+The Veneto (*Vèneto* in Venetian) is a region in northeastern Italy, bordered by the Alps to the north, the Adriatic Sea to the east, and the Po River valley to the south. It encompasses seven provinces, each with internal linguistic variation. The map above shows administrative provinces, not hard dialect boundaries.
 
 ## The Dialect Areas
 
-### Central Venetian (*Veneto Centrale*)
+The labels used for dialect groups differ among authors. The practical grouping
+below is meant to orient a learner, not to replace a linguistic atlas.
 
-The varieties spoken in Padova, Vicenza, and Treviso form the heart of what linguists call "central Venetian." These are mutually intelligible and share most grammatical features. This grammar primarily follows central Venetian conventions.
+### Central and Southern Venetian (*Veneto Centrale e Meridionale*)
 
-- **Padovano** - Spoken in Padua and its province. The variety with the most speakers and the largest geographic area.
+The Padovano and Vicentino varieties provide the main grammatical base for this
+book. Polesano shares many features with this central-southern group while also
+showing contact with Emilian varieties toward the Po.
+
+- **Padovano** - Spoken in Padua and its province. It is widely spoken and
+  especially well documented in Belloni's grammar.
 - **Vicentino** - Spoken in Vicenza. Very close to Padovano.
-- **Trevigiano** - Spoken in Treviso. Slightly more conservative in some features.
+- **Polesano** - Spoken in Rovigo province, between the Adige and Po. Forms can
+  shift gradually toward Emilian near the southern edge.
 
 ### Venetian Proper (*Veneziano*)
 
-The dialect of Venice itself is the most famous internationally but is spoken by relatively few people. It has some distinctive features:
+The dialect of Venice itself is the variety most familiar internationally. It has some distinctive features:
 
 - Stronger presence of the evanescent *l* (written *ł*)
 - Some unique vocabulary related to maritime and lagoon life
@@ -30,11 +37,10 @@ The dialect of Venice itself is the most famous internationally but is spoken by
 
 ### Northern Venetian (*Veneto Settentrionale*)
 
-- **Bellunese** - Spoken in the mountain province of Belluno. More archaic features, influence from Ladin and Friulian. Least understood by speakers of other varieties.
-
-### Southern Venetian (*Veneto Meridionale*)
-
-- **Polesano** - Spoken in Rovigo province, between the mouths of the Adige and Po rivers. Shows influence from Emilian dialects to the south.
+- **Trevigiano** - Spoken across Treviso province, with differences between the
+  lower plain and northern areas.
+- **Bellunese** - Spoken in the mountain province of Belluno. It includes
+  conservative features and contact with neighboring Ladin and Friulian areas.
 
 ## The Terraferma
 
@@ -61,7 +67,10 @@ Venetian-influenced varieties extend beyond the modern regional borders:
 
 The boundaries shown are approximate. Dialect boundaries are never clean lines; they are gradients. A speaker from Cittadella (between Padova and Vicenza) may use forms from both areas. A speaker from the Paduan hills may sound different from one in the city.
 
-The key point: when this grammar says "central Venetian," it means the varieties spoken in the shaded core area of Padova-Vicenza-Treviso. When significant variations exist in other areas, we note them.
+The key point: when this grammar says "central Venetian," its unmarked teaching
+forms are mainly Padovano-Vicentino. Province colors on the map are geographic
+orientation only. When significant forms from other areas are included, they
+should be labeled.
 
 ---
 
