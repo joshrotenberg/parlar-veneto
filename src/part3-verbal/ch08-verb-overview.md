@@ -154,7 +154,7 @@ Not all verbs show this alternation - it depends on whether the stem vowel is a 
 
 ### Simpler in Some Ways
 
-- **No double consonants**: Italian *abbiamo* → Venetian *gavemo*
+- **No phonemic long consonants**: Italian *abbiamo* → Venetian *gavemo*
 - **Fewer distinct endings**: Person often marked by clitic, not ending
 - **More regular patterns**: Some Italian irregulars are regular in Venetian
 

@@ -1,9 +1,19 @@
 # Summary
 
 [Preface](front/preface.md)
+[Start Speaking: Your First Ten Minutes](front/start-speaking.md)
 [How to Use This Book](front/how-to-use.md)
 [Abbreviations and Symbols](front/abbreviations.md)
 [Map of the Veneto](front/map.md)
+
+---
+
+# Guided Lessons
+
+- [Guided Lessons](guided-lessons/README.md)
+- [Lesson 1: Meeting Someone](guided-lessons/lesson01-meeting.md)
+- [Lesson 2: At the Bacaro](guided-lessons/lesson02-bacaro.md)
+- [Lesson 3: Talking About Family](guided-lessons/lesson03-family.md)
 
 ---
 

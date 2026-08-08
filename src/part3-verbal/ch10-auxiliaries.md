@@ -195,7 +195,7 @@ Venetian has two forms for "to have": *gavér* (with g-) and *aver* (without). B
 **Possession:**
 
 - *Go na casa.* (I have a house.)
-- *Te ga fradéi?* (Do you have brothers?)
+- *Te ga fradèi?* (Do you have siblings?)
 - *No gavemo schei.* (We don't have money.)
 
 **Age:**

@@ -41,8 +41,6 @@ First conjugation verbs are the most common. The model verb is *parlar* (to spea
 
 **Magnar** (to eat):
 
-
-
 | Person | Form |
 |--------|------|
 | mi | *magno* |
@@ -54,9 +52,6 @@ First conjugation verbs are the most common. The model verb is *parlar* (to spea
 
 **Laorar** (to work):
 
-
-
-
 | Person | Form |
 |--------|------|
 | mi | *laoro* |
@@ -67,10 +62,6 @@ First conjugation verbs are the most common. The model verb is *parlar* (to spea
 | lori/lore | *i/le laora* |
 
 **Portar** (to carry):
-
-
-
-
 
 | Person | Form |
 |--------|------|
@@ -148,16 +139,6 @@ Other Type A verbs: *dormir* (to sleep), *sentir* (to hear/feel)
 
 **Dormir** (to sleep):
 
-
-
-
-
-
-
-
-
-
-
 | Person | Form |
 |--------|------|
 | mi | *dormo* |
@@ -167,54 +148,44 @@ Other Type A verbs: *dormir* (to sleep), *sentir* (to hear/feel)
 | vu | *dormì* |
 | lori/lore | *i/le dorme* |
 
-### Type B: Inchoative (with -is- infix, like *finir*)
+### Type B: Inchoative (with -iss- infix, like *finir*)
 
-Many -ir verbs add **-is-** before the ending in 1sg, 2sg, 3sg, and 3pl. This parallels Italian verbs like *finire* → *finisco*.
+Many -ir verbs add **-iss-** before the ending in 1sg, 2sg, 3sg, and
+3pl. The **ss** marks a voiceless /s/, not a long consonant. This parallels
+Italian verbs like *finire* → *finisco*.
 
 | Person | Form |
 |--------|------|
-| mi | *finiso* |
-| ti | *te finisi* |
-| lu/ela | *el/la finise* |
+| mi | *finisso* |
+| ti | *te finissi* |
+| lu/ela | *el/la finisse* |
 | nu | *finimo* |
 | vu | *finì* |
-| lori/lore | *i/le finise* |
+| lori/lore | *i/le finisse* |
 
 Other Type B verbs: *capir* (to understand), *preferir* (to prefer)
 
 **Capir** (to understand):
 
-
-
-
-
-
-
-
-
-
-
-
-
 | Person | Form |
 |--------|------|
-| mi | *capiso* |
-| ti | *te capisi* |
-| lu/ela | *el/la capise* |
+| mi | *capisso* |
+| ti | *te capissi* |
+| lu/ela | *el/la capisse* |
 | nu | *capimo* |
 | vu | *capì* |
-| lori/lore | *i/le capise* |
+| lori/lore | *i/le capisse* |
 
 ### Endings Summary: Third Conjugation
 
 | Person | Type A | Type B |
 |--------|--------|--------|
-| 1sg | -o | -iso |
-| 2sg | -i | -isi |
-| 3sg | -e | -ise |
+| 1sg | -o | -isso |
+| 2sg | -i | -issi |
+| 3sg | -e | -isse |
 | 1pl | -imo | -imo |
 | 2pl | -ì | -ì |
-| 3pl | -e | -ise |
+| 3pl | -e | -isse |
 
 ## 9.4 Regional Variation
 
@@ -331,7 +302,7 @@ In questions with inversion:
 | Venetian | Italian | English |
 |----------|---------|---------|
 | *Cossa feto?* | *Cosa fai?* | What are you doing? |
-| *No capiso.* | *Non capisco.* | I don't understand. |
+| *No capisso.* | *Non capisco.* | I don't understand. |
 | *No so.* | *Non so.* | I don't know. |
 | *Te piase?* | *Ti piace?* | Do you like it? |
 | *Me piase.* | *Mi piace.* | I like it. |
@@ -346,18 +317,18 @@ In questions with inversion:
 
 | Person | -ar | -er | -ir (A) | -ir (B) |
 |--------|-----|-----|---------|---------|
-| 1sg | -o | -o | -o | -iso |
-| 2sg | -i | -i | -i | -isi |
-| 3sg | -a | -e | -e | -ise |
+| 1sg | -o | -o | -o | -isso |
+| 2sg | -i | -i | -i | -issi |
+| 3sg | -a | -e | -e | -isse |
 | 1pl | -emo | -emo | -imo | -imo |
 | 2pl | -è | -ì | -ì | -ì |
-| 3pl | -a | -e | -e | -ise |
+| 3pl | -a | -e | -e | -isse |
 
 ### Key Points
 
 1. **Clitics are obligatory** for 2nd and 3rd person
 2. **Vowel alternation** in 2nd conjugation: stressed é/ó → unstressed i/u
-3. **Two types** of -ir verbs: simple and inchoative (-is-)
+3. **Two types** of -ir verbs: simple and inchoative (-iss-)
 4. **Question inversion** moves clitic after verb: *te* → *-to*, *el* → *-lo*
 5. **Negation** with *no* before the clitic
 6. **Progressive** with *èsser drio* + infinitive

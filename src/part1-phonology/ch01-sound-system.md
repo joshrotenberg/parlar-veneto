@@ -1,6 +1,10 @@
 # Chapter 1: The Sound System
 
-Venetian has approximately 24 phonemes: seven vowels and seventeen consonants. While this inventory is similar to Italian's, several sounds distinguish Venetian clearly from its southern neighbor. This chapter describes the Venetian sound system, with particular attention to features that differ from Italian.
+Venetian varieties share a seven-vowel core but differ in parts of their
+consonant inventories and in the realization of several sounds. While the
+overall system is similar to Italian's, several features distinguish Venetian
+clearly from its southern neighbor. This chapter describes the central
+Venetian system used in this book and notes important variation.
 
 ## 1.1 Vowels
 
@@ -76,7 +80,7 @@ Note that Venetian lacks the rising diphthongs that developed in Italian from La
 | t | /t/ | voiceless dental stop | *tuto* (all) |
 | v | /v/ | voiced labiodental fricative | *vero* (true) |
 | x | /z/ | voiced sibilant | *xe* (is) |
-| z | /ts/, /dz/ | affricate | *forsa*, *mezo* |
+| z | /ts/, /dz/ | affricate; distribution varies | *mezo* |
 
 ### The Evanescent L (ł)
 
@@ -117,7 +121,9 @@ The letter **x** represents a voiced /z/ sound, as in English "zero." This is on
 | *xogar* | *giocare* | to play |
 | *xà* | *già* | already |
 
-This sound developed from Latin G before front vowels and in other environments. It is sometimes spelled **z** in older texts but **x** is now standard.
+This sound developed from Latin G before front vowels and in other environments.
+Other orthographies may spell it **z**, **gi**, or **j**; this book uses **x**
+consistently in words such as *xe* and *xente*.
 
 ### Interdental Fricatives (Historical)
 
@@ -144,16 +150,17 @@ The letter **n** at the end of words or before consonants is pronounced as a vel
 
 This is automatic and does not need to be marked in spelling.
 
-### Palatal Consonants
+### Palatal Sounds
 
-Venetian has palatal consonants similar to Italian:
+Venetian has palatal sounds similar to Italian:
 
 | Sound | IPA | Spelling | Example |
 |-------|-----|----------|---------|
-| palatal lateral | /ʎ/ | gl(i), j | *fijo* (son), *mejo* (better) |
+| palatal glide | /j/ | j | *fijo* (son), *mejo* (better) |
 | palatal nasal | /ɲ/ | gn | *ogni* (every), *bagno* (bath) |
 
-Note that in some words, Venetian uses **j** where Italian uses **gli**:
+In some words, Venetian **j** corresponds to Italian **gli**, but it represents
+a glide /j/, not the Italian palatal lateral /ʎ/:
 
 - Italian *figlio* → Venetian *fijo*
 - Italian *meglio* → Venetian *mejo*
@@ -162,9 +169,11 @@ Note that in some words, Venetian uses **j** where Italian uses **gli**:
 
 Several features set Venetian phonology apart from Italian:
 
-### No Geminate (Double) Consonants
+### No Phonemic Geminate Consonants
 
-Unlike Italian, Venetian does not have long or doubled consonants. Where Italian has double letters, Venetian has single:
+Unlike Italian, Venetian does not distinguish words through consonant length.
+Consonants that are long in Italian are normally short in Venetian and are
+generally written with a single letter:
 
 | Italian | Venetian | English |
 |---------|----------|---------|
@@ -176,7 +185,10 @@ Unlike Italian, Venetian does not have long or doubled consonants. Where Italian
 | *vecchio* | *vecio* | old |
 | *sotto* | *soto* | under |
 
-This is one of the most immediately noticeable differences between Venetian and Italian pronunciation.
+This is one of the most immediately noticeable differences between Venetian and
+Italian pronunciation. Some spelling systems nevertheless use **ss** to mark a
+voiceless /s/ between vowels, as in *cossa*. In that use, **ss** is a spelling
+device and not a long consonant.
 
 ### Voicing Patterns
 
@@ -210,7 +222,7 @@ The key phonological features that distinguish Venetian from Italian:
 
 1. **The evanescent L (ł)**: a weakened or silent L sound
 2. **The voiced sibilant (x)**: /z/ where Italian has /dʒ/
-3. **No double consonants**: single consonants throughout
+3. **No phonemic long consonants**: Italian geminates are normally simplified
 4. **Final velar nasal**: /ŋ/ at word end
 5. **Absence of Italian diphthongs**: *bon* not *buono*, *vien* not *viene*
 

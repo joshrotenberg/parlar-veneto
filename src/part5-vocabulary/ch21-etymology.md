@@ -12,7 +12,7 @@ Venice's centuries-long relationship with the Byzantine Empire and Greek-speakin
 
 Perhaps the most famous Greek loan in Venetian, *piron* [piˈroŋ] comes from Byzantine Greek *pirouni* (πειρούνι). The fork itself came to Western Europe via Byzantium - a Byzantine princess is said to have scandalized 11th-century Venice by eating with a two-pronged golden fork instead of her fingers.
 
-While Italian uses *forchetta* (from Latin *furca*), Venetian preserved the Greek term. The word also shows the characteristic Venetian word-final velarized /n/.
+While Italian uses *forchetta* (from Latin *furca*), Venetian preserved the Greek term. The word also shows the characteristic Venetian word-final velar nasal /ŋ/.
 
 ### *Carega* (Chair)
 

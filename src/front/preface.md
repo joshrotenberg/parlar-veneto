@@ -12,7 +12,7 @@ This is not to dismiss the scholarly tradition. Silvano Belloni's *Grammatica Ve
 
 ## Terraferma Focus
 
-Venetian encompasses several regional varieties: the urban dialect of Venice proper (*Veneziano*), the speech of Padua (*Padovano*), Treviso (*Trevigiano*), Vicenza (*Vicentino*), Verona (*Veronese*), and other areas. This grammar primarily follows the conventions of central Venetian, particularly the Padovano-Vicentino variety that covers the most populous and extensive territory of the region.
+Venetian encompasses several regional varieties: the urban dialect of Venice proper (*Veneziano*), the speech of Padua (*Padovano*), Treviso (*Trevigiano*), Vicenza (*Vicentino*), Verona (*Veronese*), and other areas. This grammar primarily follows central Venetian, especially Padovano-Vicentino, because it provides a broad and well-documented base for learners.
 
 A note on terminology: This book uses "Venetian" (*veneto*) to refer to the language spoken across the Veneto region, not just the city of Venice. Some scholars prefer "Venetan" to emphasize this broader scope and avoid privileging the city dialect. The varieties of Padua, Vicenza, Verona, Treviso, and Belluno are distinct but mutually intelligible, and this grammar draws primarily from central Venetian (Padovano-Vicentino) while noting regional variation.
 
@@ -22,11 +22,15 @@ Where significant variations exist between regional varieties, we note them.
 
 ## On Orthography
 
-Venetian has no single official orthography. The conventions used here follow those established by linguaveneta.net, the Veneto Regional Government's language portal, which are widely used in contemporary Venetian writing. The most distinctive conventions are:
+Venetian has no single official orthography. This book uses a consistent
+learning orthography assembled from conventions found in modern Venetian
+grammars, dictionaries, and the *Manuale di Grafia Veneta Unitaria*. It is one
+practical choice, not an official or universally accepted standard. The most
+distinctive conventions are:
 
-- **ł** for the "evanescent L," a velarized sound that distinguishes Venetian from Italian
+- **ł** for the "evanescent L," whose pronunciation varies from a weakened lateral to a glide or no audible consonant
 - **x** for the voiced /z/ sound (as in *xe*, "is")
-- No double consonants, reflecting Venetian pronunciation
+- No phonemic long consonants; most Italian doubles become single
 
 These conventions are explained in detail in Chapter 3.
 

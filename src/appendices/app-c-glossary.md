@@ -311,7 +311,8 @@ This glossary collects key Venetian words appearing throughout the grammar, orga
 
 **complementizer** - *che* inserted after conjunctions (*quando che*, *dove che*)
 
-**evanescent L** - the Venetian *ł*, a velarized or weakened L sound
+**evanescent L** - the Venetian *ł*, whose realization ranges from a weakened
+lateral to a glide or no audible consonant, depending on variety and speaker
 
 **ghe xe** - existential construction "there is/are"
 

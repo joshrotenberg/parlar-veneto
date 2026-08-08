@@ -2,7 +2,11 @@
 
 Venetian has no single official spelling system. Over the centuries, writers have used various conventions, often borrowing from Italian orthography or inventing ad hoc solutions. This lack of standardization can be disorienting for learners encountering Venetian texts from different sources.
 
-This chapter describes the orthographic conventions used in this book, which follow the system established by linguaveneta.net and widely adopted in contemporary Venetian writing. Understanding these conventions will help you read modern Venetian texts and write the language yourself.
+This chapter describes the consistent learning orthography used in this book.
+It draws on modern grammars, dictionaries, and conventions documented in the
+*Manuale di Grafia Veneta Unitaria*, but it is not presented as the one
+official spelling of Venetian. Understanding it will give you a base from which
+to read other modern spelling systems.
 
 ## 3.1 The Alphabet
 
@@ -94,7 +98,9 @@ The letter **x** represents the voiced sibilant /z/ (as in English "zero"), one 
 | *xorno* | /ˈzorno/ | *giorno* | day |
 | *xogar* | /zoˈɡar/ | *giocare* | to play |
 
-**Note:** In older texts, this sound is sometimes spelled **z** or **gi**. The **x** spelling is now standard.
+**Note:** Other texts may spell this sound **z**, **gi**, or **j**. This book
+uses **x** consistently where the sound is /z/ in words such as *xe* and
+*xente*.
 
 ### S and Z
 
@@ -103,10 +109,10 @@ The letter **s** represents:
 - Voiceless /s/ at the beginning of words: *sałe* (salt)
 - Often voiced /z/ between vowels: *casa* [ˈkaza] (house)
 
-The letter **z** represents affricates:
-
-- Voiceless /ts/: *forsa* [ˈfortsa] (strength) - sometimes spelled *rz*
-- Voiced /dz/: *mezo* [ˈmɛdzo] (half)
+The letter **z** represents affricates /ts/ or /dz/ in words and varieties that
+preserve them; *mezo* [ˈmɛdzo] (half) illustrates the voiced value. Their
+distribution varies regionally. Many Venetian forms instead have **s** or
+**ss** where Italian spelling has **z**, as in *forsa* and *piassa*.
 
 The distinction between s, x, and z can be confusing. In general:
 
@@ -147,7 +153,8 @@ As in Italian, **gn** represents the palatal nasal /ɲ/:
 
 ### Double Consonants
 
-Venetian does not have double consonants. Always write single consonants:
+Venetian does not have the phonemic consonant length found in Italian. Italian
+double consonants are therefore normally written as single consonants here:
 
 | Italian | Venetian |
 |---------|----------|
@@ -155,7 +162,11 @@ Venetian does not have double consonants. Always write single consonants:
 | *tutto* | *tuto* |
 | *notte* | *note* |
 
-If you see double consonants in a Venetian text, it is either using Italian spelling conventions or represents an older orthographic tradition.
+One important exception is **ss**, which some Venetian orthographies use to
+distinguish voiceless /s/ between vowels from voiced /z/. Thus *cossa* may be
+written with **ss** even though it is not pronounced with a long consonant.
+Other doubled letters usually reflect another orthographic tradition or Italian
+spelling influence.
 
 ## 3.4 The Apostrophe
 
@@ -220,7 +231,7 @@ These texts remain valuable, but their spelling should not be taken as a guide t
 
 ## Summary
 
-The key orthographic features of modern Venetian:
+The key features of the learning orthography used in this book:
 
 | Feature | Convention | Example |
 |---------|------------|---------|
@@ -228,7 +239,7 @@ The key orthographic features of modern Venetian:
 | Voiced sibilant | x | *xe* |
 | Open e, o | è, ò | *bèn*, *òvo* |
 | Closed e, o | é, ó | *véder*, *tóre* |
-| No double consonants | single letters | *tuto*, *fato* |
+| No phonemic long consonants | usually single letters | *tuto*, *fato* |
 | Palatal glide | j | *fijo* |
 
 For pronunciation practice, see the audio resources listed in Appendix D, particularly Forvo and Omniglot.

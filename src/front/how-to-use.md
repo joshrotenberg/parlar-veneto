@@ -14,10 +14,14 @@ No prior knowledge of Venetian is assumed.
 
 If you are starting from zero, work through the book in order:
 
-1. **Part I** (Phonology and Orthography) teaches you how Venetian sounds and how it is written. This is essential before tackling other sections.
-2. **Part II** (Nominal Morphology) covers articles, nouns, adjectives, and pronouns. Pay special attention to Chapter 7 on the clitic system, which is one of Venetian's most distinctive features.
-3. **Part III** (Verbal Morphology) builds on Part II. You will need to understand clitics before verbs make full sense.
-4. **Parts IV, V, and VI** can be read in any order after you have the grammatical foundation.
+1. **Start Speaking** gives you a ten-minute introduction to useful sounds,
+   phrases, and sentence patterns. Read it aloud before studying rules.
+2. **Guided Lessons** use English explanations, simple Italian comparisons, and
+   short exercises to build your first conversations.
+3. **Part I** (Phonology and Orthography) teaches you how Venetian sounds and how it is written. This is essential before tackling other sections.
+4. **Part II** (Nominal Morphology) covers articles, nouns, adjectives, and pronouns. Pay special attention to Chapter 7 on the clitic system, which is one of Venetian's most distinctive features.
+5. **Part III** (Verbal Morphology) builds on Part II. You will need to understand clitics before verbs make full sense.
+6. **Parts IV, V, and VI** can be read in any order after you have the grammatical foundation.
 
 ### Reference Use
 
@@ -103,12 +107,15 @@ These references indicate related material that will deepen your understanding. 
 
 This is a **grammar**, not a course. It does not include:
 
-- Exercises or drills (though these may be added in future editions)
+- A complete sequence of graded lessons or exercises
 - Audio recordings (use the online resources in Appendix D)
 - Extensive reading passages
 - Travel phrasebook content
 
-For conversation practice and immersion, supplement this book with the contemporary sources listed in the bibliography.
+The Start Speaking page and Guided Lessons include a small amount of structured
+practice. They are the beginning of a learner pathway, not yet a complete
+course. For sustained conversation practice and immersion, supplement this
+book with the contemporary sources listed in the bibliography.
 
 ## A Note on Variation
 
